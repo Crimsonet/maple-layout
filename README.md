@@ -6,7 +6,7 @@
 
 ![maple-layout.png](https://github.com/Crimsonet/Crimsonet/blob/main/maple-layout/maple-layout.png)
 
-此處熱區圖使用[第三方網頁工具](patrick-wied.at/projects/heatmap-keyboard/)分析得到。   
+此處熱區圖使用[第三方網頁工具](https://www.patrick-wied.at/projects/heatmap-keyboard/)分析得到。   
 - _從上至下依次爲QWERTY，colemak，maple佈局，先英後中。_     
 - _英語分析樣本爲AGPL-3.0協議LICENSE文檔，漢語分析樣本爲其中譯本的全拼原始輸入。_
 
@@ -21,4 +21,4 @@ _24年初我開始接觸鍵圈，研究了一段時間後買了一把邁從K99�
 按照B友的建議，我去尋找XDA鍵帽。商品不多，定製很貴，而且我不覺得一套和鍵盤差不多價格的鍵帽有什麼性價比。
 XDA鍵帽就算做好了帶回家，手感一言難盡，除了好看便一無是處。 我想同時追究美觀度和實用能力，這就無法接受。  
 翻閱的過程中，我也看到很多人說這些鍵盤佈局畢竟是給英語設計的，現在漢語其實缺乏一種合適的鍵盤佈局，於是，我便有了idea：
-做個既可以**適合中英雙語打字**，可以**不在鍵帽上花錢**而又可以**彰顯個性**的鍵盤佈局。
+做個既**適合中英雙語打字**，可以**不在鍵帽上花錢**而又可以**彰顯個性**的鍵盤佈局。

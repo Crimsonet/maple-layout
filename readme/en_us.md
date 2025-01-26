@@ -1,12 +1,12 @@
 # Maple-Layout
 
-[en_us]() / [zh_cn]() / [zh_hans]()
+[en_us](https://github.com/Crimsonet/maple-layout/blob/main/readme/en_us.md) / [zh_cn](https://github.com/Crimsonet/maple-layout/blob/main/readme/zh_cn.md) / [zh_hans](https://github.com/Crimsonet/maple-layout/blob/main/README.md)
 
 ### Layout Preview
 
 ![maple-layout.png](https://github.com/Crimsonet/Crimsonet/blob/main/maple-layout/maple-layout.png)
 
-The heatmap here is obtained through analysis using a [third - party web tool](patrick - wied.at/projects/heatmap - keyboard/).
+The heatmap here is obtained through analysis using a [third-party web tool](https://www.patrick-wied.at/projects/heatmap-keyboard/).
 - _From top to bottom are QWERTY, colemak, and maple layouts, English first and then Chinese._
 - _The English analysis sample is the LICENSE document of the AGPL - 3.0 agreement, and the Chinese analysis sample is the full - pinyin original input of its Chinese translation._
 
