@@ -29,5 +29,4 @@ func main() {
 		englishFilePath := "./editor/stats/english.json"
 		editor.Processor(chineseFilePath, englishFilePath)
 	}
-
 }
