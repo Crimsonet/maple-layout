@@ -83,7 +83,7 @@ func ProcessJSONFile(fileName string) map[rune]int {
 		return nil
 	}
 	var result struct {
-		ChineseResult []ChineseResult `json:"chinese"`
+		ChineseResult []ChineseResult `json:"chinese_result"`
 	}
 	err = json.Unmarshal(data, &result)
 	if err != nil {

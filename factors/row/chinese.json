@@ -1,0 +1,96 @@
+{
+	"combinations": [
+		{
+			"combination": "sv",
+			"count": 8
+		},
+		{
+			"combination": "uv",
+			"count": 9
+		},
+		{
+			"combination": "wv",
+			"count": 10
+		},
+		{
+			"combination": "fv",
+			"count": 12
+		},
+		{
+			"combination": "yn",
+			"count": 12
+		},
+		{
+			"combination": "yi",
+			"count": 22
+		},
+		{
+			"combination": "ui",
+			"count": 28
+		},
+		{
+			"combination": "vi",
+			"count": 19
+		},
+		{
+			"combination": "gv",
+			"count": 10
+		},
+		{
+			"combination": "yv",
+			"count": 12
+		},
+		{
+			"combination": "yr",
+			"count": 12
+		},
+		{
+			"combination": "jm",
+			"count": 11
+		},
+		{
+			"combination": "hw",
+			"count": 11
+		},
+		{
+			"combination": "vv",
+			"count": 7
+		},
+		{
+			"combination": "xi",
+			"count": 8
+		},
+		{
+			"combination": "li",
+			"count": 11
+		},
+		{
+			"combination": "vk",
+			"count": 7
+		},
+		{
+			"combination": "vg",
+			"count": 7
+		},
+		{
+			"combination": "gs",
+			"count": 7
+		},
+		{
+			"combination": "jy",
+			"count": 9
+		},
+		{
+			"combination": "si",
+			"count": 7
+		},
+		{
+			"combination": "jn",
+			"count": 8
+		},
+		{
+			"combination": "yb",
+			"count": 7
+		}
+	]
+}

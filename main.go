@@ -16,9 +16,10 @@ func main() {
 
 	if whetherPrintRawNaturalCode == true {
 		fileName := "factors/chinese.json"
+		factors.RowType(fileName)
 		letterCountRaw := factors.ProcessJSONFile(fileName)
 		if letterCountRaw != nil {
-			fmt.Println("自然碼數據統計結果:")
+			fmt.Println("自然碼單鍵位統計結果:")
 			for letter, count := range letterCountRaw {
 				fmt.Printf("%c: %d\n", letter, count)
 			}
