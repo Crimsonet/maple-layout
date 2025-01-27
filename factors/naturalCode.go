@@ -97,5 +97,6 @@ func ProcessJSONFile(fileName string) map[rune]int {
 			letterCount[char] += int(math.Round(item.Frequency))
 		}
 	}
+	fmt.Println("自然碼單鍵位統計結果:")
 	return letterCount
 }
