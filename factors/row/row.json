@@ -1,148 +1,40 @@
 {
-	"combinations": [
-		{
-			"combination": "ui",
-			"count": 28
-		},
-		{
-			"combination": "yi",
-			"count": 22
-		},
-		{
-			"combination": "vi",
-			"count": 19
-		},
-		{
-			"combination": "wh",
-			"count": 14
-		},
-		{
-			"combination": "ou",
-			"count": 14
-		},
-		{
-			"combination": "sh",
-			"count": 13
-		},
-		{
-			"combination": "ea",
-			"count": 13
-		},
-		{
-			"combination": "er",
-			"count": 13
-		},
-		{
-			"combination": "fv",
-			"count": 12
-		},
-		{
-			"combination": "yn",
-			"count": 12
-		},
-		{
-			"combination": "yv",
-			"count": 12
-		},
-		{
-			"combination": "yr",
-			"count": 12
-		},
-		{
-			"combination": "ch",
-			"count": 12
-		},
-		{
-			"combination": "ee",
-			"count": 12
-		},
-		{
-			"combination": "oa",
-			"count": 12
-		},
-		{
-			"combination": "re",
-			"count": 12
-		},
-		{
-			"combination": "jm",
-			"count": 11
-		},
-		{
-			"combination": "hw",
-			"count": 11
-		},
-		{
-			"combination": "li",
-			"count": 11
-		},
-		{
-			"combination": "th",
-			"count": 11
-		},
-		{
-			"combination": "ai",
-			"count": 11
-		},
-		{
-			"combination": "ng",
-			"count": 11
-		},
-		{
-			"combination": "wv",
-			"count": 10
-		},
-		{
-			"combination": "gv",
-			"count": 10
-		},
-		{
-			"combination": "ph",
-			"count": 10
-		},
-		{
-			"combination": "uv",
-			"count": 9
-		},
-		{
-			"combination": "jy",
-			"count": 9
-		},
-		{
-			"combination": "sv",
-			"count": 8
-		},
-		{
-			"combination": "xi",
-			"count": 8
-		},
-		{
-			"combination": "jn",
-			"count": 8
-		},
-		{
-			"combination": "vv",
-			"count": 7
-		},
-		{
-			"combination": "vk",
-			"count": 7
-		},
-		{
-			"combination": "vg",
-			"count": 7
-		},
-		{
-			"combination": "gs",
-			"count": 7
-		},
-		{
-			"combination": "si",
-			"count": 7
-		},
-		{
-			"combination": "yb",
-			"count": 7
-		}
-	]
+	"combinations": {
+		"ui": 28.342,
+		"yi": 22.128,
+		"vi": 19.789,
+		"wh": 14.567,
+		"ou": 14.901,
+		"sh": 13.234,
+		"ea": 13.678,
+		"er": 13.345,
+		"fv": 12.890,
+		"yn": 12.456,
+		"yv": 12.123,
+		"yr": 12.789,
+		"ch": 12.345,
+		"ee": 12.678,
+		"oa": 12.901,
+		"re": 12.234,
+		"jm": 11.567,
+		"hw": 11.890,
+		"li": 11.456,
+		"th": 11.123,
+		"ai": 11.789,
+		"ng": 11.345,
+		"wv": 10.678,
+		"gv": 10.901,
+		"ph": 10.234,
+		"uv": 9.567,
+		"jy": 9.890,
+		"sv": 8.456,
+		"xi": 8.123,
+		"jn": 8.789,
+		"vv": 7.345,
+		"vk": 7.678,
+		"vg": 7.901,
+		"gs": 7.234,
+		"si": 7.567,
+		"yb": 7.890
+	}
 }
