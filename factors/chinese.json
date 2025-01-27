@@ -1,0 +1,5004 @@
+{
+	"chinese_result": [
+		{
+			"number": 1,
+			"frequency": 3.2074998098725,
+			"pronunciation": "de"
+		},
+		{
+			"number": 2,
+			"frequency": 4.6478552071336,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 3,
+			"frequency": 5.8391534593647,
+			"pronunciation": "bu"
+		},
+		{
+			"number": 4,
+			"frequency": 7.0047757132801,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 5,
+			"frequency": 8.004814183044,
+			"pronunciation": "le"
+		},
+		{
+			"number": 6,
+			"frequency": 8.9737384252775,
+			"pronunciation": "ren"
+		},
+		{
+			"number": 7,
+			"frequency": 9.8490634683188,
+			"pronunciation": "zai"
+		},
+		{
+			"number": 8,
+			"frequency": 10.717993367052,
+			"pronunciation": "you"
+		},
+		{
+			"number": 9,
+			"frequency": 11.467082881851,
+			"pronunciation": "wo"
+		},
+		{
+			"number": 10,
+			"frequency": 12.176138808736,
+			"pronunciation": "ta"
+		},
+		{
+			"number": 11,
+			"frequency": 12.846679386027,
+			"pronunciation": "zhe"
+		},
+		{
+			"number": 12,
+			"frequency": 13.420315794961,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 13,
+			"frequency": 13.984275269634,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 14,
+			"frequency": 14.541198694816,
+			"pronunciation": "lai"
+		},
+		{
+			"number": 15,
+			"frequency": 15.087477453678,
+			"pronunciation": "da"
+		},
+		{
+			"number": 16,
+			"frequency": 15.632253427029,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 17,
+			"frequency": 16.169382192359,
+			"pronunciation": "ge"
+		},
+		{
+			"number": 18,
+			"frequency": 16.704013784028,
+			"pronunciation": "zhong"
+		},
+		{
+			"number": 19,
+			"frequency": 17.233734087211,
+			"pronunciation": "shang"
+		},
+		{
+			"number": 20,
+			"frequency": 17.710311413395,
+			"pronunciation": "men"
+		},
+		{
+			"number": 21,
+			"frequency": 18.144123095332,
+			"pronunciation": "dao"
+		},
+		{
+			"number": 22,
+			"frequency": 18.572804058921,
+			"pronunciation": "shuo"
+		},
+		{
+			"number": 23,
+			"frequency": 18.999356011982,
+			"pronunciation": "guo"
+		},
+		{
+			"number": 24,
+			"frequency": 19.419685119536,
+			"pronunciation": "he"
+		},
+		{
+			"number": 25,
+			"frequency": 19.83264092008,
+			"pronunciation": "de"
+		},
+		{
+			"number": 26,
+			"frequency": 20.23690760707,
+			"pronunciation": "ye"
+		},
+		{
+			"number": 27,
+			"frequency": 20.637023670015,
+			"pronunciation": "zi"
+		},
+		{
+			"number": 28,
+			"frequency": 21.032740705038,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 29,
+			"frequency": 21.409450787062,
+			"pronunciation": "dao"
+		},
+		{
+			"number": 30,
+			"frequency": 21.777799741368,
+			"pronunciation": "chu"
+		},
+		{
+			"number": 31,
+			"frequency": 22.136875466004,
+			"pronunciation": "er"
+		},
+		{
+			"number": 32,
+			"frequency": 22.493634042182,
+			"pronunciation": "yao"
+		},
+		{
+			"number": 33,
+			"frequency": 22.841007355838,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 34,
+			"frequency": 23.187390917184,
+			"pronunciation": "jiu"
+		},
+		{
+			"number": 35,
+			"frequency": 23.53144844471,
+			"pronunciation": "xia"
+		},
+		{
+			"number": 36,
+			"frequency": 23.874921469799,
+			"pronunciation": "de"
+		},
+		{
+			"number": 37,
+			"frequency": 24.216021330004,
+			"pronunciation": "ke"
+		},
+		{
+			"number": 38,
+			"frequency": 24.553309755285,
+			"pronunciation": "ni"
+		},
+		{
+			"number": 39,
+			"frequency": 24.884169426403,
+			"pronunciation": "nian"
+		},
+		{
+			"number": 40,
+			"frequency": 25.202895553216,
+			"pronunciation": "sheng"
+		},
+		{
+			"number": 41,
+			"frequency": 25.514241805575,
+			"pronunciation": "zi"
+		},
+		{
+			"number": 42,
+			"frequency": 25.82308547579,
+			"pronunciation": "hui"
+		},
+		{
+			"number": 43,
+			"frequency": 26.127120618688,
+			"pronunciation": "na"
+		},
+		{
+			"number": 44,
+			"frequency": 26.424180750684,
+			"pronunciation": "hou"
+		},
+		{
+			"number": 45,
+			"frequency": 26.717001791313,
+			"pronunciation": "neng"
+		},
+		{
+			"number": 46,
+			"frequency": 27.008082459518,
+			"pronunciation": "dui"
+		},
+		{
+			"number": 47,
+			"frequency": 27.296636980047,
+			"pronunciation": "zhao"
+		},
+		{
+			"number": 48,
+			"frequency": 27.57757597081,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 49,
+			"frequency": 27.850216031405,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 50,
+			"frequency": 28.122022413045,
+			"pronunciation": "li"
+		},
+		{
+			"number": 51,
+			"frequency": 28.393242360648,
+			"pronunciation": "suo"
+		},
+		{
+			"number": 52,
+			"frequency": 28.661269758259,
+			"pronunciation": "qu"
+		},
+		{
+			"number": 53,
+			"frequency": 28.929226072956,
+			"pronunciation": "hang"
+		},
+		{
+			"number": 54,
+			"frequency": 29.19521138208,
+			"pronunciation": "guo"
+		},
+		{
+			"number": 55,
+			"frequency": 29.459838389442,
+			"pronunciation": "jia"
+		},
+		{
+			"number": 56,
+			"frequency": 29.708176592611,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 57,
+			"frequency": 29.952206166781,
+			"pronunciation": "yong"
+		},
+		{
+			"number": 58,
+			"frequency": 30.195184177413,
+			"pronunciation": "fa"
+		},
+		{
+			"number": 59,
+			"frequency": 30.436837882458,
+			"pronunciation": "tian"
+		},
+		{
+			"number": 60,
+			"frequency": 30.677907085067,
+			"pronunciation": "ru"
+		},
+		{
+			"number": 61,
+			"frequency": 30.91881712376,
+			"pronunciation": "ran"
+		},
+		{
+			"number": 62,
+			"frequency": 31.158421786555,
+			"pronunciation": "zuo"
+		},
+		{
+			"number": 63,
+			"frequency": 31.38594583091,
+			"pronunciation": "fang"
+		},
+		{
+			"number": 64,
+			"frequency": 31.612500984247,
+			"pronunciation": "cheng"
+		},
+		{
+			"number": 65,
+			"frequency": 31.836694562306,
+			"pronunciation": "zhe"
+		},
+		{
+			"number": 66,
+			"frequency": 32.060322567617,
+			"pronunciation": "duo"
+		},
+		{
+			"number": 67,
+			"frequency": 32.2808491945,
+			"pronunciation": "ri"
+		},
+		{
+			"number": 68,
+			"frequency": 32.499548140598,
+			"pronunciation": "dou"
+		},
+		{
+			"number": 69,
+			"frequency": 32.717068037498,
+			"pronunciation": "san"
+		},
+		{
+			"number": 70,
+			"frequency": 32.930483668774,
+			"pronunciation": "xiao"
+		},
+		{
+			"number": 71,
+			"frequency": 33.143396311172,
+			"pronunciation": "jun"
+		},
+		{
+			"number": 72,
+			"frequency": 33.355796306688,
+			"pronunciation": "er"
+		},
+		{
+			"number": 73,
+			"frequency": 33.568171577712,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 74,
+			"frequency": 33.77960654541,
+			"pronunciation": "tong"
+		},
+		{
+			"number": 75,
+			"frequency": 33.988355815198,
+			"pronunciation": "ma"
+		},
+		{
+			"number": 76,
+			"frequency": 34.194694447044,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 77,
+			"frequency": 34.400255416362,
+			"pronunciation": "fa"
+		},
+		{
+			"number": 78,
+			"frequency": 34.605603523259,
+			"pronunciation": "dang"
+		},
+		{
+			"number": 79,
+			"frequency": 34.809505247391,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 80,
+			"frequency": 35.013372975347,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 81,
+			"frequency": 35.215747962117,
+			"pronunciation": "hao"
+		},
+		{
+			"number": 82,
+			"frequency": 35.417643525539,
+			"pronunciation": "kan"
+		},
+		{
+			"number": 83,
+			"frequency": 35.618265004998,
+			"pronunciation": "xue"
+		},
+		{
+			"number": 84,
+			"frequency": 35.818811924663,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 85,
+			"frequency": 36.019050947141,
+			"pronunciation": "zhong"
+		},
+		{
+			"number": 86,
+			"frequency": 36.218365505421,
+			"pronunciation": "jiang"
+		},
+		{
+			"number": 87,
+			"frequency": 36.417634864241,
+			"pronunciation": "hai"
+		},
+		{
+			"number": 88,
+			"frequency": 36.615908289628,
+			"pronunciation": "fen"
+		},
+		{
+			"number": 89,
+			"frequency": 36.812743444975,
+			"pronunciation": "ci"
+		},
+		{
+			"number": 90,
+			"frequency": 37.009466567469,
+			"pronunciation": "xin"
+		},
+		{
+			"number": 91,
+			"frequency": 37.203748919047,
+			"pronunciation": "qian"
+		},
+		{
+			"number": 92,
+			"frequency": 37.397033791913,
+			"pronunciation": "mian"
+		},
+		{
+			"number": 93,
+			"frequency": 37.589907620105,
+			"pronunciation": "you"
+		},
+		{
+			"number": 94,
+			"frequency": 37.782585970283,
+			"pronunciation": "ding"
+		},
+		{
+			"number": 95,
+			"frequency": 37.973578032864,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 96,
+			"frequency": 38.163732553288,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 97,
+			"frequency": 38.352370380674,
+			"pronunciation": "zhu"
+		},
+		{
+			"number": 98,
+			"frequency": 38.538655131826,
+			"pronunciation": "mei"
+		},
+		{
+			"number": 99,
+			"frequency": 38.724497546368,
+			"pronunciation": "gong"
+		},
+		{
+			"number": 100,
+			"frequency": 38.909755458474,
+			"pronunciation": "cong"
+		},
+		{
+			"number": 101,
+			"frequency": 39.09448411193,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 102,
+			"frequency": 39.277864894267,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 103,
+			"frequency": 39.459344594984,
+			"pronunciation": "bu"
+		},
+		{
+			"number": 104,
+			"frequency": 39.637226495838,
+			"pronunciation": "ben"
+		},
+		{
+			"number": 105,
+			"frequency": 39.815007180804,
+			"pronunciation": "dong"
+		},
+		{
+			"number": 106,
+			"frequency": 39.988249762581,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 107,
+			"frequency": 40.16117749341,
+			"pronunciation": "yin"
+		},
+		{
+			"number": 108,
+			"frequency": 40.333207416133,
+			"pronunciation": "kai"
+		},
+		{
+			"number": 109,
+			"frequency": 40.504543121488,
+			"pronunciation": "xie"
+		},
+		{
+			"number": 110,
+			"frequency": 40.674125705852,
+			"pronunciation": "li"
+		},
+		{
+			"number": 111,
+			"frequency": 40.842409868082,
+			"pronunciation": "chang"
+		},
+		{
+			"number": 112,
+			"frequency": 41.009007356394,
+			"pronunciation": "ming"
+		},
+		{
+			"number": 113,
+			"frequency": 41.174001229626,
+			"pronunciation": "yang"
+		},
+		{
+			"number": 114,
+			"frequency": 41.338959175082,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 115,
+			"frequency": 41.502841605148,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 116,
+			"frequency": 41.665034657054,
+			"pronunciation": "yue"
+		},
+		{
+			"number": 117,
+			"frequency": 41.826874612313,
+			"pronunciation": "zheng"
+		},
+		{
+			"number": 118,
+			"frequency": 41.986846709488,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 119,
+			"frequency": 42.146551473096,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 120,
+			"frequency": 42.30614111329,
+			"pronunciation": "ba"
+		},
+		{
+			"number": 121,
+			"frequency": 42.463612559921,
+			"pronunciation": "dan"
+		},
+		{
+			"number": 122,
+			"frequency": 42.620156065473,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 123,
+			"frequency": 42.775412352175,
+			"pronunciation": "liang"
+		},
+		{
+			"number": 124,
+			"frequency": 42.92961668902,
+			"pronunciation": "min"
+		},
+		{
+			"number": 125,
+			"frequency": 43.082880722539,
+			"pronunciation": "ta"
+		},
+		{
+			"number": 126,
+			"frequency": 43.235542482893,
+			"pronunciation": "li"
+		},
+		{
+			"number": 127,
+			"frequency": 43.387376359095,
+			"pronunciation": "wen"
+		},
+		{
+			"number": 128,
+			"frequency": 43.536171054418,
+			"pronunciation": "deng"
+		},
+		{
+			"number": 129,
+			"frequency": 43.683649170558,
+			"pronunciation": "wai"
+		},
+		{
+			"number": 130,
+			"frequency": 43.83110990229,
+			"pronunciation": "di"
+		},
+		{
+			"number": 131,
+			"frequency": 43.977890710499,
+			"pronunciation": "wang"
+		},
+		{
+			"number": 132,
+			"frequency": 44.122861222332,
+			"pronunciation": "gao"
+		},
+		{
+			"number": 133,
+			"frequency": 44.267815895037,
+			"pronunciation": "wen"
+		},
+		{
+			"number": 134,
+			"frequency": 44.410056668458,
+			"pronunciation": "tai"
+		},
+		{
+			"number": 135,
+			"frequency": 44.551303053727,
+			"pronunciation": "tou"
+		},
+		{
+			"number": 136,
+			"frequency": 44.690921872067,
+			"pronunciation": "qing"
+		},
+		{
+			"number": 137,
+			"frequency": 44.830344053433,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 138,
+			"frequency": 44.967331258686,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 139,
+			"frequency": 45.10345426569,
+			"pronunciation": "ta"
+		},
+		{
+			"number": 140,
+			"frequency": 45.238520300674,
+			"pronunciation": "hui"
+		},
+		{
+			"number": 141,
+			"frequency": 45.373144771688,
+			"pronunciation": "bing"
+		},
+		{
+			"number": 142,
+			"frequency": 45.507265481184,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 143,
+			"frequency": 45.640101289752,
+			"pronunciation": "shou"
+		},
+		{
+			"number": 144,
+			"frequency": 45.77247196882,
+			"pronunciation": "si"
+		},
+		{
+			"number": 145,
+			"frequency": 45.903233238006,
+			"pronunciation": "guan"
+		},
+		{
+			"number": 146,
+			"frequency": 46.033401892031,
+			"pronunciation": "chong"
+		},
+		{
+			"number": 147,
+			"frequency": 46.163188475395,
+			"pronunciation": "ying"
+		},
+		{
+			"number": 148,
+			"frequency": 46.292931790899,
+			"pronunciation": "gong"
+		},
+		{
+			"number": 149,
+			"frequency": 46.42239502427,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 150,
+			"frequency": 46.551549587815,
+			"pronunciation": "quan"
+		},
+		{
+			"number": 151,
+			"frequency": 46.680021909917,
+			"pronunciation": "men"
+		},
+		{
+			"number": 152,
+			"frequency": 46.807637373854,
+			"pronunciation": "lao"
+		},
+		{
+			"number": 153,
+			"frequency": 46.934736327706,
+			"pronunciation": "dian"
+		},
+		{
+			"number": 154,
+			"frequency": 47.061809398105,
+			"pronunciation": "shen"
+		},
+		{
+			"number": 155,
+			"frequency": 47.18825972037,
+			"pronunciation": "dong"
+		},
+		{
+			"number": 156,
+			"frequency": 47.31393894755,
+			"pronunciation": "you"
+		},
+		{
+			"number": 157,
+			"frequency": 47.438699505335,
+			"pronunciation": "he"
+		},
+		{
+			"number": 158,
+			"frequency": 47.562963641685,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 159,
+			"frequency": 47.687105314536,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 160,
+			"frequency": 47.810483618707,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 161,
+			"frequency": 47.933476761655,
+			"pronunciation": "zhan"
+		},
+		{
+			"number": 162,
+			"frequency": 48.056199094155,
+			"pronunciation": "ye"
+		},
+		{
+			"number": 163,
+			"frequency": 48.177232821135,
+			"pronunciation": "bei"
+		},
+		{
+			"number": 164,
+			"frequency": 48.298018144238,
+			"pronunciation": "zheng"
+		},
+		{
+			"number": 165,
+			"frequency": 48.418457710777,
+			"pronunciation": "nei"
+		},
+		{
+			"number": 166,
+			"frequency": 48.537452053512,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 167,
+			"frequency": 48.655293230501,
+			"pronunciation": "er"
+		},
+		{
+			"number": 168,
+			"frequency": 48.77304825809,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 169,
+			"frequency": 48.89032270337,
+			"pronunciation": "ru"
+		},
+		{
+			"number": 170,
+			"frequency": 49.006537086069,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 171,
+			"frequency": 49.122042184912,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 172,
+			"frequency": 49.237521013983,
+			"pronunciation": "an"
+		},
+		{
+			"number": 173,
+			"frequency": 49.352347734585,
+			"pronunciation": "huo"
+		},
+		{
+			"number": 174,
+			"frequency": 49.467121143002,
+			"pronunciation": "li"
+		},
+		{
+			"number": 175,
+			"frequency": 49.581467667616,
+			"pronunciation": "hen"
+		},
+		{
+			"number": 176,
+			"frequency": 49.695768606449,
+			"pronunciation": "zui"
+		},
+		{
+			"number": 177,
+			"frequency": 49.809623345471,
+			"pronunciation": "shu"
+		},
+		{
+			"number": 178,
+			"frequency": 49.923339781867,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 179,
+			"frequency": 50.03694341277,
+			"pronunciation": "mei"
+		},
+		{
+			"number": 180,
+			"frequency": 50.15054163519,
+			"pronunciation": "shan"
+		},
+		{
+			"number": 181,
+			"frequency": 50.263686704036,
+			"pronunciation": "ti"
+		},
+		{
+			"number": 182,
+			"frequency": 50.376509968169,
+			"pronunciation": "shen"
+		},
+		{
+			"number": 183,
+			"frequency": 50.489324346939,
+			"pronunciation": "xin"
+		},
+		{
+			"number": 184,
+			"frequency": 50.60096122179,
+			"pronunciation": "hua"
+		},
+		{
+			"number": 185,
+			"frequency": 50.712384847901,
+			"pronunciation": "ming"
+		},
+		{
+			"number": 186,
+			"frequency": 50.823440697198,
+			"pronunciation": "yue"
+		},
+		{
+			"number": 187,
+			"frequency": 50.934131473922,
+			"pronunciation": "he"
+		},
+		{
+			"number": 188,
+			"frequency": 51.044602048141,
+			"pronunciation": "jia"
+		},
+		{
+			"number": 189,
+			"frequency": 51.154939728218,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 190,
+			"frequency": 51.264679384652,
+			"pronunciation": "ping"
+		},
+		{
+			"number": 191,
+			"frequency": 51.374101485895,
+			"pronunciation": "shui"
+		},
+		{
+			"number": 192,
+			"frequency": 51.481388395487,
+			"pronunciation": "chang"
+		},
+		{
+			"number": 193,
+			"frequency": 51.588239149593,
+			"pronunciation": "guo"
+		},
+		{
+			"number": 194,
+			"frequency": 51.694622456278,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 195,
+			"frequency": 51.800260551329,
+			"pronunciation": "xin"
+		},
+		{
+			"number": 196,
+			"frequency": 51.905632858095,
+			"pronunciation": "du"
+		},
+		{
+			"number": 197,
+			"frequency": 52.010916311219,
+			"pronunciation": "chan"
+		},
+		{
+			"number": 198,
+			"frequency": 52.115962563751,
+			"pronunciation": "li"
+		},
+		{
+			"number": 199,
+			"frequency": 52.219557025035,
+			"pronunciation": "sheng"
+		},
+		{
+			"number": 200,
+			"frequency": 52.322099922782,
+			"pronunciation": "nan"
+		},
+		{
+			"number": 201,
+			"frequency": 52.423677020071,
+			"pronunciation": "dai"
+		},
+		{
+			"number": 202,
+			"frequency": 52.524645663072,
+			"pronunciation": "zou"
+		},
+		{
+			"number": 203,
+			"frequency": 52.625561380208,
+			"pronunciation": "nv"
+		},
+		{
+			"number": 204,
+			"frequency": 52.726395197465,
+			"pronunciation": "yan"
+		},
+		{
+			"number": 205,
+			"frequency": 52.827221674639,
+			"pronunciation": "ma"
+		},
+		{
+			"number": 206,
+			"frequency": 52.92795813921,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 207,
+			"frequency": 53.028429974456,
+			"pronunciation": "chu"
+		},
+		{
+			"number": 208,
+			"frequency": 53.128883652654,
+			"pronunciation": "bian"
+		},
+		{
+			"number": 209,
+			"frequency": 53.229247318248,
+			"pronunciation": "tong"
+		},
+		{
+			"number": 210,
+			"frequency": 53.329525220762,
+			"pronunciation": "ming"
+		},
+		{
+			"number": 211,
+			"frequency": 53.429495998731,
+			"pronunciation": "te"
+		},
+		{
+			"number": 212,
+			"frequency": 53.529464072459,
+			"pronunciation": "gei"
+		},
+		{
+			"number": 213,
+			"frequency": 53.629276459152,
+			"pronunciation": "shu"
+		},
+		{
+			"number": 214,
+			"frequency": 53.728826148122,
+			"pronunciation": "ci"
+		},
+		{
+			"number": 215,
+			"frequency": 53.82837429181,
+			"pronunciation": "hai"
+		},
+		{
+			"number": 216,
+			"frequency": 53.9269941081,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 217,
+			"frequency": 54.0250035385,
+			"pronunciation": "biao"
+		},
+		{
+			"number": 218,
+			"frequency": 54.122712025477,
+			"pronunciation": "yuan"
+		},
+		{
+			"number": 219,
+			"frequency": 54.220278346628,
+			"pronunciation": "si"
+		},
+		{
+			"number": 220,
+			"frequency": 54.317399240607,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 221,
+			"frequency": 54.414412351256,
+			"pronunciation": "ge"
+		},
+		{
+			"number": 222,
+			"frequency": 54.511074683178,
+			"pronunciation": "zhou"
+		},
+		{
+			"number": 223,
+			"frequency": 54.607635412893,
+			"pronunciation": "hua"
+		},
+		{
+			"number": 224,
+			"frequency": 54.703647954267,
+			"pronunciation": "kou"
+		},
+		{
+			"number": 225,
+			"frequency": 54.799410546484,
+			"pronunciation": "ren"
+		},
+		{
+			"number": 226,
+			"frequency": 54.895164253336,
+			"pronunciation": "zhen"
+		},
+		{
+			"number": 227,
+			"frequency": 54.990849581516,
+			"pronunciation": "cai"
+		},
+		{
+			"number": 228,
+			"frequency": 55.086021103853,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 229,
+			"frequency": 55.181062822608,
+			"pronunciation": "jiao"
+		},
+		{
+			"number": 230,
+			"frequency": 55.275904813828,
+			"pronunciation": "guan"
+		},
+		{
+			"number": 231,
+			"frequency": 55.370317217006,
+			"pronunciation": "shao"
+		},
+		{
+			"number": 232,
+			"frequency": 55.4642590822,
+			"pronunciation": "si"
+		},
+		{
+			"number": 233,
+			"frequency": 55.557618762879,
+			"pronunciation": "de"
+		},
+		{
+			"number": 234,
+			"frequency": 55.650908133285,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 235,
+			"frequency": 55.743887288583,
+			"pronunciation": "shen"
+		},
+		{
+			"number": 236,
+			"frequency": 55.83686219436,
+			"pronunciation": "ze"
+		},
+		{
+			"number": 237,
+			"frequency": 55.92969532063,
+			"pronunciation": "bi"
+		},
+		{
+			"number": 238,
+			"frequency": 56.022283906223,
+			"pronunciation": "bing"
+		},
+		{
+			"number": 239,
+			"frequency": 56.114724144867,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 240,
+			"frequency": 56.20549432136,
+			"pronunciation": "da"
+		},
+		{
+			"number": 241,
+			"frequency": 56.295093175058,
+			"pronunciation": "yuan"
+		},
+		{
+			"number": 242,
+			"frequency": 56.384581541184,
+			"pronunciation": "zai"
+		},
+		{
+			"number": 243,
+			"frequency": 56.473600914608,
+			"pronunciation": "lun"
+		},
+		{
+			"number": 244,
+			"frequency": 56.562550364079,
+			"pronunciation": "bie"
+		},
+		{
+			"number": 245,
+			"frequency": 56.651211618694,
+			"pronunciation": "ting"
+		},
+		{
+			"number": 246,
+			"frequency": 56.739547205394,
+			"pronunciation": "ti"
+		},
+		{
+			"number": 247,
+			"frequency": 56.826476972949,
+			"pronunciation": "wan"
+		},
+		{
+			"number": 248,
+			"frequency": 56.91314481542,
+			"pronunciation": "si"
+		},
+		{
+			"number": 249,
+			"frequency": 56.999800681965,
+			"pronunciation": "geng"
+		},
+		{
+			"number": 250,
+			"frequency": 57.086277295945,
+			"pronunciation": "bi"
+		},
+		{
+			"number": 251,
+			"frequency": 57.172583156404,
+			"pronunciation": "shou"
+		},
+		{
+			"number": 252,
+			"frequency": 57.258613956894,
+			"pronunciation": "bai"
+		},
+		{
+			"number": 253,
+			"frequency": 57.344457005774,
+			"pronunciation": "zuo"
+		},
+		{
+			"number": 254,
+			"frequency": 57.430006837635,
+			"pronunciation": "er"
+		},
+		{
+			"number": 255,
+			"frequency": 57.514903015747,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 256,
+			"frequency": 57.599560447986,
+			"pronunciation": "yuan"
+		},
+		{
+			"number": 257,
+			"frequency": 57.68403630974,
+			"pronunciation": "bao"
+		},
+		{
+			"number": 258,
+			"frequency": 57.768233634641,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 259,
+			"frequency": 57.852234708889,
+			"pronunciation": "bai"
+		},
+		{
+			"number": 260,
+			"frequency": 57.936217626089,
+			"pronunciation": "zong"
+		},
+		{
+			"number": 261,
+			"frequency": 58.019227402748,
+			"pronunciation": "fei"
+		},
+		{
+			"number": 262,
+			"frequency": 58.102037065552,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 263,
+			"frequency": 58.184786076087,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 264,
+			"frequency": 58.267373604786,
+			"pronunciation": "bei"
+		},
+		{
+			"number": 265,
+			"frequency": 58.34942183051,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 266,
+			"frequency": 58.431386997394,
+			"pronunciation": "zhang"
+		},
+		{
+			"number": 267,
+			"frequency": 58.513301556335,
+			"pronunciation": "ling"
+		},
+		{
+			"number": 268,
+			"frequency": 58.595150440844,
+			"pronunciation": "fan"
+		},
+		{
+			"number": 269,
+			"frequency": 58.676578236354,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 270,
+			"frequency": 58.757729426613,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 271,
+			"frequency": 58.838599762099,
+			"pronunciation": "xu"
+		},
+		{
+			"number": 272,
+			"frequency": 58.919150997114,
+			"pronunciation": "tiao"
+		},
+		{
+			"number": 273,
+			"frequency": 58.999635012418,
+			"pronunciation": "bian"
+		},
+		{
+			"number": 274,
+			"frequency": 59.079434854677,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 275,
+			"frequency": 59.159207268203,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 276,
+			"frequency": 59.238977363808,
+			"pronunciation": "qie"
+		},
+		{
+			"number": 277,
+			"frequency": 59.318295078479,
+			"pronunciation": "ren"
+		},
+		{
+			"number": 278,
+			"frequency": 59.397340437422,
+			"pronunciation": "mu"
+		},
+		{
+			"number": 279,
+			"frequency": 59.475979001211,
+			"pronunciation": "guang"
+		},
+		{
+			"number": 280,
+			"frequency": 59.554456855804,
+			"pronunciation": "guan"
+		},
+		{
+			"number": 281,
+			"frequency": 59.632755457833,
+			"pronunciation": "lu"
+		},
+		{
+			"number": 282,
+			"frequency": 59.710994180233,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 283,
+			"frequency": 59.789051718468,
+			"pronunciation": "cheng"
+		},
+		{
+			"number": 284,
+			"frequency": 59.866881327794,
+			"pronunciation": "huo"
+		},
+		{
+			"number": 285,
+			"frequency": 59.944348182469,
+			"pronunciation": "bao"
+		},
+		{
+			"number": 286,
+			"frequency": 60.021677507159,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 287,
+			"frequency": 60.098923386689,
+			"pronunciation": "ti"
+		},
+		{
+			"number": 288,
+			"frequency": 60.175667049981,
+			"pronunciation": "que"
+		},
+		{
+			"number": 289,
+			"frequency": 60.250584191449,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 290,
+			"frequency": 60.325410933994,
+			"pronunciation": "gan"
+		},
+		{
+			"number": 291,
+			"frequency": 60.39988033037,
+			"pronunciation": "nan"
+		},
+		{
+			"number": 292,
+			"frequency": 60.47427478063,
+			"pronunciation": "liang"
+		},
+		{
+			"number": 293,
+			"frequency": 60.548600852218,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 294,
+			"frequency": 60.622858545133,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 295,
+			"frequency": 60.696158936635,
+			"pronunciation": "qu"
+		},
+		{
+			"number": 296,
+			"frequency": 60.769250715239,
+			"pronunciation": "chang"
+		},
+		{
+			"number": 297,
+			"frequency": 60.842160923357,
+			"pronunciation": "si"
+		},
+		{
+			"number": 298,
+			"frequency": 60.914819250715,
+			"pronunciation": "dian"
+		},
+		{
+			"number": 299,
+			"frequency": 60.987394905554,
+			"pronunciation": "kong"
+		},
+		{
+			"number": 300,
+			"frequency": 61.059914157647,
+			"pronunciation": "bian"
+		},
+		{
+			"number": 301,
+			"frequency": 61.132260338297,
+			"pronunciation": "tong"
+		},
+		{
+			"number": 302,
+			"frequency": 61.204474397445,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 303,
+			"frequency": 61.276590717587,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 304,
+			"frequency": 61.348257747356,
+			"pronunciation": "ke"
+		},
+		{
+			"number": 305,
+			"frequency": 61.419882281905,
+			"pronunciation": "di"
+		},
+		{
+			"number": 306,
+			"frequency": 61.491251458813,
+			"pronunciation": "qin"
+		},
+		{
+			"number": 307,
+			"frequency": 61.562374163444,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 308,
+			"frequency": 61.633453213895,
+			"pronunciation": "zhu"
+		},
+		{
+			"number": 309,
+			"frequency": 61.704308584959,
+			"pronunciation": "qing"
+		},
+		{
+			"number": 310,
+			"frequency": 61.774920574309,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 311,
+			"frequency": 61.845404691678,
+			"pronunciation": "liu"
+		},
+		{
+			"number": 312,
+			"frequency": 61.91570492064,
+			"pronunciation": "fang"
+		},
+		{
+			"number": 313,
+			"frequency": 61.985568607795,
+			"pronunciation": "feng"
+		},
+		{
+			"number": 314,
+			"frequency": 62.055382073326,
+			"pronunciation": "zi"
+		},
+		{
+			"number": 315,
+			"frequency": 62.125184335573,
+			"pronunciation": "qiu"
+		},
+		{
+			"number": 316,
+			"frequency": 62.194900062098,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 317,
+			"frequency": 62.263690551785,
+			"pronunciation": "se"
+		},
+		{
+			"number": 318,
+			"frequency": 62.332394505751,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 319,
+			"frequency": 62.400922684034,
+			"pronunciation": "wang"
+		},
+		{
+			"number": 320,
+			"frequency": 62.469156486338,
+			"pronunciation": "chuan"
+		},
+		{
+			"number": 321,
+			"frequency": 62.537378312716,
+			"pronunciation": "ba"
+		},
+		{
+			"number": 322,
+			"frequency": 62.605135009594,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 323,
+			"frequency": 62.672875867344,
+			"pronunciation": "yan"
+		},
+		{
+			"number": 324,
+			"frequency": 62.740575002514,
+			"pronunciation": "ling"
+		},
+		{
+			"number": 325,
+			"frequency": 62.808271819764,
+			"pronunciation": "qing"
+		},
+		{
+			"number": 326,
+			"frequency": 62.875642582779,
+			"pronunciation": "jue"
+		},
+		{
+			"number": 327,
+			"frequency": 62.9426459553,
+			"pronunciation": "xiao"
+		},
+		{
+			"number": 328,
+			"frequency": 63.009611854763,
+			"pronunciation": "gao"
+		},
+		{
+			"number": 329,
+			"frequency": 63.075607317927,
+			"pronunciation": "jiao"
+		},
+		{
+			"number": 330,
+			"frequency": 63.141469500628,
+			"pronunciation": "dui"
+		},
+		{
+			"number": 331,
+			"frequency": 63.207088687934,
+			"pronunciation": "qiang"
+		},
+		{
+			"number": 332,
+			"frequency": 63.2724965581,
+			"pronunciation": "wang"
+		},
+		{
+			"number": 333,
+			"frequency": 63.33772401674,
+			"pronunciation": "qu"
+		},
+		{
+			"number": 334,
+			"frequency": 63.402854895335,
+			"pronunciation": "jiao"
+		},
+		{
+			"number": 335,
+			"frequency": 63.467968003201,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 336,
+			"frequency": 63.533061795058,
+			"pronunciation": "da"
+		},
+		{
+			"number": 337,
+			"frequency": 63.598072914396,
+			"pronunciation": "she"
+		},
+		{
+			"number": 338,
+			"frequency": 63.6625053261,
+			"pronunciation": "quan"
+		},
+		{
+			"number": 339,
+			"frequency": 63.726630226938,
+			"pronunciation": "ke"
+		},
+		{
+			"number": 340,
+			"frequency": 63.790708383034,
+			"pronunciation": "jiu"
+		},
+		{
+			"number": 341,
+			"frequency": 63.854686868523,
+			"pronunciation": "she"
+		},
+		{
+			"number": 342,
+			"frequency": 63.918175500021,
+			"pronunciation": "li"
+		},
+		{
+			"number": 343,
+			"frequency": 63.981559052428,
+			"pronunciation": "guan"
+		},
+		{
+			"number": 344,
+			"frequency": 64.044823231899,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 345,
+			"frequency": 64.107774105701,
+			"pronunciation": "gai"
+		},
+		{
+			"number": 346,
+			"frequency": 64.170574314633,
+			"pronunciation": "zhan"
+		},
+		{
+			"number": 347,
+			"frequency": 64.233306917532,
+			"pronunciation": "zi"
+		},
+		{
+			"number": 348,
+			"frequency": 64.295986980886,
+			"pronunciation": "gu"
+		},
+		{
+			"number": 349,
+			"frequency": 64.358441433254,
+			"pronunciation": "pin"
+		},
+		{
+			"number": 350,
+			"frequency": 64.42066100295,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 351,
+			"frequency": 64.482765835552,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 352,
+			"frequency": 64.54462999068,
+			"pronunciation": "hua"
+		},
+		{
+			"number": 353,
+			"frequency": 64.606190498144,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 354,
+			"frequency": 64.667720872635,
+			"pronunciation": "wan"
+		},
+		{
+			"number": 355,
+			"frequency": 64.729112944499,
+			"pronunciation": "lin"
+		},
+		{
+			"number": 356,
+			"frequency": 64.790499607881,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 357,
+			"frequency": 64.851850343486,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 358,
+			"frequency": 64.913179058841,
+			"pronunciation": "dai"
+		},
+		{
+			"number": 359,
+			"frequency": 64.974358268285,
+			"pronunciation": "ju"
+		},
+		{
+			"number": 360,
+			"frequency": 65.035503095232,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 361,
+			"frequency": 65.096253102953,
+			"pronunciation": "yun"
+		},
+		{
+			"number": 362,
+			"frequency": 65.156867898609,
+			"pronunciation": "jue"
+		},
+		{
+			"number": 363,
+			"frequency": 65.217043448218,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 364,
+			"frequency": 65.277129371544,
+			"pronunciation": "yuan"
+		},
+		{
+			"number": 365,
+			"frequency": 65.336290444353,
+			"pronunciation": "fei"
+		},
+		{
+			"number": 366,
+			"frequency": 65.395114259641,
+			"pronunciation": "yuan"
+		},
+		{
+			"number": 367,
+			"frequency": 65.453914895719,
+			"pronunciation": "shou"
+		},
+		{
+			"number": 368,
+			"frequency": 65.51236398043,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 369,
+			"frequency": 65.570573160308,
+			"pronunciation": "zhong"
+		},
+		{
+			"number": 370,
+			"frequency": 65.628611972985,
+			"pronunciation": "che"
+		},
+		{
+			"number": 371,
+			"frequency": 65.686360659205,
+			"pronunciation": "hou"
+		},
+		{
+			"number": 372,
+			"frequency": 65.744084234613,
+			"pronunciation": "lei"
+		},
+		{
+			"number": 373,
+			"frequency": 65.801708912054,
+			"pronunciation": "cheng"
+		},
+		{
+			"number": 374,
+			"frequency": 65.859319295648,
+			"pronunciation": "zhuan"
+		},
+		{
+			"number": 375,
+			"frequency": 65.916926975001,
+			"pronunciation": "gong"
+		},
+		{
+			"number": 376,
+			"frequency": 65.974516497305,
+			"pronunciation": "qian"
+		},
+		{
+			"number": 377,
+			"frequency": 66.032033777735,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 378,
+			"frequency": 66.089503540783,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 379,
+			"frequency": 66.146909561,
+			"pronunciation": "liu"
+		},
+		{
+			"number": 380,
+			"frequency": 66.204118944245,
+			"pronunciation": "mei"
+		},
+		{
+			"number": 381,
+			"frequency": 66.261166845653,
+			"pronunciation": "gai"
+		},
+		{
+			"number": 382,
+			"frequency": 66.318206634337,
+			"pronunciation": "chao"
+		},
+		{
+			"number": 383,
+			"frequency": 66.375074510539,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 384,
+			"frequency": 66.431582336332,
+			"pronunciation": "lian"
+		},
+		{
+			"number": 385,
+			"frequency": 66.487966539665,
+			"pronunciation": "shu"
+		},
+		{
+			"number": 386,
+			"frequency": 66.54433181331,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 387,
+			"frequency": 66.600547967364,
+			"pronunciation": "ge"
+		},
+		{
+			"number": 388,
+			"frequency": 66.656751759173,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 389,
+			"frequency": 66.712858970935,
+			"pronunciation": "gan"
+		},
+		{
+			"number": 390,
+			"frequency": 66.76890784835,
+			"pronunciation": "yun"
+		},
+		{
+			"number": 391,
+			"frequency": 66.824908435742,
+			"pronunciation": "zen"
+		},
+		{
+			"number": 392,
+			"frequency": 66.880859960471,
+			"pronunciation": "bu"
+		},
+		{
+			"number": 393,
+			"frequency": 66.936689408022,
+			"pronunciation": "tai"
+		},
+		{
+			"number": 394,
+			"frequency": 66.992206708866,
+			"pronunciation": "rang"
+		},
+		{
+			"number": 395,
+			"frequency": 67.047422293646,
+			"pronunciation": "jiang"
+		},
+		{
+			"number": 396,
+			"frequency": 67.102289417622,
+			"pronunciation": "he"
+		},
+		{
+			"number": 397,
+			"frequency": 67.156961063585,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 398,
+			"frequency": 67.211586737446,
+			"pronunciation": "gui"
+		},
+		{
+			"number": 399,
+			"frequency": 67.265957053666,
+			"pronunciation": "la"
+		},
+		{
+			"number": 400,
+			"frequency": 67.320150048922,
+			"pronunciation": "qie"
+		},
+		{
+			"number": 401,
+			"frequency": 67.374329909293,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 402,
+			"frequency": 67.42843984571,
+			"pronunciation": "chi"
+		},
+		{
+			"number": 403,
+			"frequency": 67.482537419881,
+			"pronunciation": "ruo"
+		},
+		{
+			"number": 404,
+			"frequency": 67.53635722984,
+			"pronunciation": "ying"
+		},
+		{
+			"number": 405,
+			"frequency": 67.589755950801,
+			"pronunciation": "zheng"
+		},
+		{
+			"number": 406,
+			"frequency": 67.643012505934,
+			"pronunciation": "gong"
+		},
+		{
+			"number": 407,
+			"frequency": 67.696199909754,
+			"pronunciation": "shen"
+		},
+		{
+			"number": 408,
+			"frequency": 67.749307345296,
+			"pronunciation": "bei"
+		},
+		{
+			"number": 409,
+			"frequency": 67.802304293267,
+			"pronunciation": "zao"
+		},
+		{
+			"number": 410,
+			"frequency": 67.855005319977,
+			"pronunciation": "yang"
+		},
+		{
+			"number": 411,
+			"frequency": 67.907602426557,
+			"pronunciation": "kuai"
+		},
+		{
+			"number": 412,
+			"frequency": 67.959757582849,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 413,
+			"frequency": 68.011762460589,
+			"pronunciation": "bu"
+		},
+		{
+			"number": 414,
+			"frequency": 68.06315502084,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 415,
+			"frequency": 68.114539468367,
+			"pronunciation": "zhou"
+		},
+		{
+			"number": 416,
+			"frequency": 68.165805701917,
+			"pronunciation": "zong"
+		},
+		{
+			"number": 417,
+			"frequency": 68.217056482661,
+			"pronunciation": "bing"
+		},
+		{
+			"number": 418,
+			"frequency": 68.268206433837,
+			"pronunciation": "hua"
+		},
+		{
+			"number": 419,
+			"frequency": 68.319176746127,
+			"pronunciation": "cheng"
+		},
+		{
+			"number": 420,
+			"frequency": 68.370104563198,
+			"pronunciation": "luo"
+		},
+		{
+			"number": 421,
+			"frequency": 68.420918802135,
+			"pronunciation": "ai"
+		},
+		{
+			"number": 422,
+			"frequency": 68.471671616162,
+			"pronunciation": "dao"
+		},
+		{
+			"number": 423,
+			"frequency": 68.522365709522,
+			"pronunciation": "que"
+		},
+		{
+			"number": 424,
+			"frequency": 68.57297133556,
+			"pronunciation": "ne"
+		},
+		{
+			"number": 425,
+			"frequency": 68.62345372546,
+			"pronunciation": "ban"
+		},
+		{
+			"number": 426,
+			"frequency": 68.673863487165,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 427,
+			"frequency": 68.724265522467,
+			"pronunciation": "gen"
+		},
+		{
+			"number": 428,
+			"frequency": 68.774519597138,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 429,
+			"frequency": 68.823792032225,
+			"pronunciation": "shang"
+		},
+		{
+			"number": 430,
+			"frequency": 68.872875170422,
+			"pronunciation": "chen"
+		},
+		{
+			"number": 431,
+			"frequency": 68.921915427079,
+			"pronunciation": "huo"
+		},
+		{
+			"number": 432,
+			"frequency": 68.970780294373,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 433,
+			"frequency": 69.019564420749,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 434,
+			"frequency": 69.068340434401,
+			"pronunciation": "zhu"
+		},
+		{
+			"number": 435,
+			"frequency": 69.117097518363,
+			"pronunciation": "sui"
+		},
+		{
+			"number": 436,
+			"frequency": 69.165848034883,
+			"pronunciation": "sha"
+		},
+		{
+			"number": 437,
+			"frequency": 69.214518196805,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 438,
+			"frequency": 69.263148181427,
+			"pronunciation": "cun"
+		},
+		{
+			"number": 439,
+			"frequency": 69.311728717067,
+			"pronunciation": "chen"
+		},
+		{
+			"number": 440,
+			"frequency": 69.360252463639,
+			"pronunciation": "zhun"
+		},
+		{
+			"number": 441,
+			"frequency": 69.408557552988,
+			"pronunciation": "guang"
+		},
+		{
+			"number": 442,
+			"frequency": 69.456842167367,
+			"pronunciation": "shou"
+		},
+		{
+			"number": 443,
+			"frequency": 69.504886104272,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 444,
+			"frequency": 69.552752720214,
+			"pronunciation": "ju"
+		},
+		{
+			"number": 445,
+			"frequency": 69.600606973909,
+			"pronunciation": "shen"
+		},
+		{
+			"number": 446,
+			"frequency": 69.648411005981,
+			"pronunciation": "huang"
+		},
+		{
+			"number": 447,
+			"frequency": 69.696180655556,
+			"pronunciation": "man"
+		},
+		{
+			"number": 448,
+			"frequency": 69.743916695276,
+			"pronunciation": "rong"
+		},
+		{
+			"number": 449,
+			"frequency": 69.791627624183,
+			"pronunciation": "dan"
+		},
+		{
+			"number": 450,
+			"frequency": 69.839320009722,
+			"pronunciation": "lian"
+		},
+		{
+			"number": 451,
+			"frequency": 69.886761287142,
+			"pronunciation": "diao"
+		},
+		{
+			"number": 452,
+			"frequency": 69.934106370836,
+			"pronunciation": "chi"
+		},
+		{
+			"number": 453,
+			"frequency": 69.98142827532,
+			"pronunciation": "gu"
+		},
+		{
+			"number": 454,
+			"frequency": 70.02853268154,
+			"pronunciation": "suan"
+		},
+		{
+			"number": 455,
+			"frequency": 70.075621248633,
+			"pronunciation": "zuo"
+		},
+		{
+			"number": 456,
+			"frequency": 70.122693203958,
+			"pronunciation": "zao"
+		},
+		{
+			"number": 457,
+			"frequency": 70.169748547515,
+			"pronunciation": "yin"
+		},
+		{
+			"number": 458,
+			"frequency": 70.216647817719,
+			"pronunciation": "xu"
+		},
+		{
+			"number": 459,
+			"frequency": 70.263477936609,
+			"pronunciation": "li"
+		},
+		{
+			"number": 460,
+			"frequency": 70.310303419658,
+			"pronunciation": "zheng"
+		},
+		{
+			"number": 461,
+			"frequency": 70.357099542372,
+			"pronunciation": "yao"
+		},
+		{
+			"number": 462,
+			"frequency": 70.403848920344,
+			"pronunciation": "mu"
+		},
+		{
+			"number": 463,
+			"frequency": 70.450390844379,
+			"pronunciation": "zu"
+		},
+		{
+			"number": 464,
+			"frequency": 70.496819190279,
+			"pronunciation": "fang"
+		},
+		{
+			"number": 465,
+			"frequency": 70.542984065815,
+			"pronunciation": "ceng"
+		},
+		{
+			"number": 466,
+			"frequency": 70.58912653478,
+			"pronunciation": "si"
+		},
+		{
+			"number": 467,
+			"frequency": 70.634798852082,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 468,
+			"frequency": 70.680450694415,
+			"pronunciation": "sui"
+		},
+		{
+			"number": 469,
+			"frequency": 70.726017932627,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 470,
+			"frequency": 70.771411326758,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 471,
+			"frequency": 70.816760680387,
+			"pronunciation": "shang"
+		},
+		{
+			"number": 472,
+			"frequency": 70.862108875056,
+			"pronunciation": "duan"
+		},
+		{
+			"number": 473,
+			"frequency": 70.907454751804,
+			"pronunciation": "nai"
+		},
+		{
+			"number": 474,
+			"frequency": 70.952725296117,
+			"pronunciation": "ying"
+		},
+		{
+			"number": 475,
+			"frequency": 70.997968025376,
+			"pronunciation": "chu"
+		},
+		{
+			"number": 476,
+			"frequency": 71.043164396213,
+			"pronunciation": "qing"
+		},
+		{
+			"number": 477,
+			"frequency": 71.088295478939,
+			"pronunciation": "chu"
+		},
+		{
+			"number": 478,
+			"frequency": 71.133226834131,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 479,
+			"frequency": 71.17809096961,
+			"pronunciation": "shou"
+		},
+		{
+			"number": 480,
+			"frequency": 71.222919563633,
+			"pronunciation": "dang"
+		},
+		{
+			"number": 481,
+			"frequency": 71.267308138968,
+			"pronunciation": "ban"
+		},
+		{
+			"number": 482,
+			"frequency": 71.311547594712,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 483,
+			"frequency": 71.355733738271,
+			"pronunciation": "qing"
+		},
+		{
+			"number": 484,
+			"frequency": 71.399890907816,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 485,
+			"frequency": 71.444022966549,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 486,
+			"frequency": 71.488112916383,
+			"pronunciation": "yue"
+		},
+		{
+			"number": 487,
+			"frequency": 71.532179687005,
+			"pronunciation": "kuang"
+		},
+		{
+			"number": 488,
+			"frequency": 71.576171511512,
+			"pronunciation": "ju"
+		},
+		{
+			"number": 489,
+			"frequency": 71.619986401375,
+			"pronunciation": "huang"
+		},
+		{
+			"number": 490,
+			"frequency": 71.663769612983,
+			"pronunciation": "qian"
+		},
+		{
+			"number": 491,
+			"frequency": 71.707547802429,
+			"pronunciation": "li"
+		},
+		{
+			"number": 492,
+			"frequency": 71.751289677777,
+			"pronunciation": "liu"
+		},
+		{
+			"number": 493,
+			"frequency": 71.794979399901,
+			"pronunciation": "le"
+		},
+		{
+			"number": 494,
+			"frequency": 71.838633580568,
+			"pronunciation": "zhang"
+		},
+		{
+			"number": 495,
+			"frequency": 71.88210734971,
+			"pronunciation": "zhao"
+		},
+		{
+			"number": 496,
+			"frequency": 71.925395298843,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 497,
+			"frequency": 71.968677453174,
+			"pronunciation": "xie"
+		},
+		{
+			"number": 498,
+			"frequency": 72.011672185289,
+			"pronunciation": "tuan"
+		},
+		{
+			"number": 499,
+			"frequency": 72.054495391243,
+			"pronunciation": "zhu"
+		},
+		{
+			"number": 500,
+			"frequency": 72.097182226172,
+			"pronunciation": "wen"
+		},
+		{
+			"number": 501,
+			"frequency": 72.139858244136,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 502,
+			"frequency": 72.182419138685,
+			"pronunciation": "zu"
+		},
+		{
+			"number": 503,
+			"frequency": 72.224849457013,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 504,
+			"frequency": 72.267242688603,
+			"pronunciation": "zheng"
+		},
+		{
+			"number": 505,
+			"frequency": 72.309576040564,
+			"pronunciation": "jia"
+		},
+		{
+			"number": 506,
+			"frequency": 72.351876555311,
+			"pronunciation": "hao"
+		},
+		{
+			"number": 507,
+			"frequency": 72.394140369639,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 508,
+			"frequency": 72.436396843885,
+			"pronunciation": "can"
+		},
+		{
+			"number": 509,
+			"frequency": 72.478537035755,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 510,
+			"frequency": 72.520461660963,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 511,
+			"frequency": 72.562369674403,
+			"pronunciation": "hong"
+		},
+		{
+			"number": 512,
+			"frequency": 72.604244464308,
+			"pronunciation": "a"
+		},
+		{
+			"number": 513,
+			"frequency": 72.64596511246,
+			"pronunciation": "xiao"
+		},
+		{
+			"number": 514,
+			"frequency": 72.687678806848,
+			"pronunciation": "tu"
+		},
+		{
+			"number": 515,
+			"frequency": 72.729373957868,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 516,
+			"frequency": 72.770816455487,
+			"pronunciation": "la"
+		},
+		{
+			"number": 517,
+			"frequency": 72.812175121628,
+			"pronunciation": "li"
+		},
+		{
+			"number": 518,
+			"frequency": 72.853334832874,
+			"pronunciation": "ying"
+		},
+		{
+			"number": 519,
+			"frequency": 72.894383670227,
+			"pronunciation": "zeng"
+		},
+		{
+			"number": 520,
+			"frequency": 72.935375718514,
+			"pronunciation": "tu"
+		},
+		{
+			"number": 521,
+			"frequency": 72.976343428629,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 522,
+			"frequency": 73.017253577037,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 523,
+			"frequency": 73.058093415172,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 524,
+			"frequency": 73.098902734012,
+			"pronunciation": "ye"
+		},
+		{
+			"number": 525,
+			"frequency": 73.139589203034,
+			"pronunciation": "xu"
+		},
+		{
+			"number": 526,
+			"frequency": 73.180232017875,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 527,
+			"frequency": 73.22079679604,
+			"pronunciation": "zuo"
+		},
+		{
+			"number": 528,
+			"frequency": 73.261267312079,
+			"pronunciation": "jiu"
+		},
+		{
+			"number": 529,
+			"frequency": 73.301700355061,
+			"pronunciation": "han"
+		},
+		{
+			"number": 530,
+			"frequency": 73.342000890221,
+			"pronunciation": "nian"
+		},
+		{
+			"number": 531,
+			"frequency": 73.382254294318,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 532,
+			"frequency": 73.422229161563,
+			"pronunciation": "song"
+		},
+		{
+			"number": 533,
+			"frequency": 73.462194370803,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 534,
+			"frequency": 73.502073044323,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 535,
+			"frequency": 73.541928924952,
+			"pronunciation": "ya"
+		},
+		{
+			"number": 536,
+			"frequency": 73.581750036764,
+			"pronunciation": "tui"
+		},
+		{
+			"number": 537,
+			"frequency": 73.621471864289,
+			"pronunciation": "ju"
+		},
+		{
+			"number": 538,
+			"frequency": 73.661151969235,
+			"pronunciation": "lie"
+		},
+		{
+			"number": 539,
+			"frequency": 73.700738584696,
+			"pronunciation": "jun"
+		},
+		{
+			"number": 540,
+			"frequency": 73.740275751174,
+			"pronunciation": "bao"
+		},
+		{
+			"number": 541,
+			"frequency": 73.779725995611,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 542,
+			"frequency": 73.818936721534,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 543,
+			"frequency": 73.858145129537,
+			"pronunciation": "di"
+		},
+		{
+			"number": 544,
+			"frequency": 73.897282454625,
+			"pronunciation": "ke"
+		},
+		{
+			"number": 545,
+			"frequency": 73.936343674638,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 546,
+			"frequency": 73.975384806001,
+			"pronunciation": "zhong"
+		},
+		{
+			"number": 547,
+			"frequency": 74.014165171241,
+			"pronunciation": "xuan"
+		},
+		{
+			"number": 548,
+			"frequency": 74.052931242633,
+			"pronunciation": "long"
+		},
+		{
+			"number": 549,
+			"frequency": 74.09143036678,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 550,
+			"frequency": 74.129878496662,
+			"pronunciation": "kao"
+		},
+		{
+			"number": 551,
+			"frequency": 74.16814891926,
+			"pronunciation": "you"
+		},
+		{
+			"number": 552,
+			"frequency": 74.206354826388,
+			"pronunciation": "shu"
+		},
+		{
+			"number": 553,
+			"frequency": 74.24431657916,
+			"pronunciation": "jiu"
+		},
+		{
+			"number": 554,
+			"frequency": 74.282201840536,
+			"pronunciation": "nong"
+		},
+		{
+			"number": 555,
+			"frequency": 74.320058900538,
+			"pronunciation": "pian"
+		},
+		{
+			"number": 556,
+			"frequency": 74.357884282286,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 557,
+			"frequency": 74.395679144739,
+			"pronunciation": "po"
+		},
+		{
+			"number": 558,
+			"frequency": 74.433373177624,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 559,
+			"frequency": 74.471012353044,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 560,
+			"frequency": 74.508615214366,
+			"pronunciation": "fei"
+		},
+		{
+			"number": 561,
+			"frequency": 74.5461168598,
+			"pronunciation": "tan"
+		},
+		{
+			"number": 562,
+			"frequency": 74.583553989764,
+			"pronunciation": "yin"
+		},
+		{
+			"number": 563,
+			"frequency": 74.620967167876,
+			"pronunciation": "cha"
+		},
+		{
+			"number": 564,
+			"frequency": 74.658350985655,
+			"pronunciation": "zhuan"
+		},
+		{
+			"number": 565,
+			"frequency": 74.695667197401,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 566,
+			"frequency": 74.73292430216,
+			"pronunciation": "ma"
+		},
+		{
+			"number": 567,
+			"frequency": 74.769961590734,
+			"pronunciation": "zhao"
+		},
+		{
+			"number": 568,
+			"frequency": 74.806952907207,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 569,
+			"frequency": 74.843829486585,
+			"pronunciation": "zhuang"
+		},
+		{
+			"number": 570,
+			"frequency": 74.880670138186,
+			"pronunciation": "jue"
+		},
+		{
+			"number": 571,
+			"frequency": 74.917498041221,
+			"pronunciation": "da"
+		},
+		{
+			"number": 572,
+			"frequency": 74.954295811282,
+			"pronunciation": "di"
+		},
+		{
+			"number": 573,
+			"frequency": 74.991050699803,
+			"pronunciation": "hai"
+		},
+		{
+			"number": 574,
+			"frequency": 75.027795543999,
+			"pronunciation": "mi"
+		},
+		{
+			"number": 575,
+			"frequency": 75.064515663703,
+			"pronunciation": "yan"
+		},
+		{
+			"number": 576,
+			"frequency": 75.101139976002,
+			"pronunciation": "liu"
+		},
+		{
+			"number": 577,
+			"frequency": 75.137736086928,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 578,
+			"frequency": 75.174279658308,
+			"pronunciation": "an"
+		},
+		{
+			"number": 579,
+			"frequency": 75.210773780706,
+			"pronunciation": "jiu"
+		},
+		{
+			"number": 580,
+			"frequency": 75.247264426221,
+			"pronunciation": "bao"
+		},
+		{
+			"number": 581,
+			"frequency": 75.283674330819,
+			"pronunciation": "gong"
+		},
+		{
+			"number": 582,
+			"frequency": 75.320014311463,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 583,
+			"frequency": 75.356315273769,
+			"pronunciation": "an"
+		},
+		{
+			"number": 584,
+			"frequency": 75.392554424845,
+			"pronunciation": "cha"
+		},
+		{
+			"number": 585,
+			"frequency": 75.428708585482,
+			"pronunciation": "hei"
+		},
+		{
+			"number": 586,
+			"frequency": 75.464809433933,
+			"pronunciation": "tu"
+		},
+		{
+			"number": 587,
+			"frequency": 75.500903714941,
+			"pronunciation": "dao"
+		},
+		{
+			"number": 588,
+			"frequency": 75.536899870622,
+			"pronunciation": "ju"
+		},
+		{
+			"number": 589,
+			"frequency": 75.572876710294,
+			"pronunciation": "tou"
+		},
+		{
+			"number": 590,
+			"frequency": 75.608843119322,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 591,
+			"frequency": 75.644783258577,
+			"pronunciation": "yuan"
+		},
+		{
+			"number": 592,
+			"frequency": 75.680713739827,
+			"pronunciation": "sheng"
+		},
+		{
+			"number": 593,
+			"frequency": 75.716583182489,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 594,
+			"frequency": 75.752447216668,
+			"pronunciation": "lu"
+		},
+		{
+			"number": 595,
+			"frequency": 75.788271846188,
+			"pronunciation": "yan"
+		},
+		{
+			"number": 596,
+			"frequency": 75.823922631626,
+			"pronunciation": "dai"
+		},
+		{
+			"number": 597,
+			"frequency": 75.859517014317,
+			"pronunciation": "gui"
+		},
+		{
+			"number": 598,
+			"frequency": 75.895062334345,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 599,
+			"frequency": 75.930601473251,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 600,
+			"frequency": 75.966058712277,
+			"pronunciation": "chuan"
+		},
+		{
+			"number": 601,
+			"frequency": 76.001505134338,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 602,
+			"frequency": 76.036934558311,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 603,
+			"frequency": 76.072338098832,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 604,
+			"frequency": 76.107723868625,
+			"pronunciation": "sui"
+		},
+		{
+			"number": 605,
+			"frequency": 76.143053235671,
+			"pronunciation": "lv"
+		},
+		{
+			"number": 606,
+			"frequency": 76.178255117056,
+			"pronunciation": "biao"
+		},
+		{
+			"number": 607,
+			"frequency": 76.213373166962,
+			"pronunciation": "zui"
+		},
+		{
+			"number": 608,
+			"frequency": 76.248484263104,
+			"pronunciation": "ba"
+		},
+		{
+			"number": 609,
+			"frequency": 76.283492598078,
+			"pronunciation": "qun"
+		},
+		{
+			"number": 610,
+			"frequency": 76.318376924273,
+			"pronunciation": "chun"
+		},
+		{
+			"number": 611,
+			"frequency": 76.353185918033,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 612,
+			"frequency": 76.387826476193,
+			"pronunciation": "reng"
+		},
+		{
+			"number": 613,
+			"frequency": 76.422455831067,
+			"pronunciation": "mou"
+		},
+		{
+			"number": 614,
+			"frequency": 76.45703960016,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 615,
+			"frequency": 76.491604825884,
+			"pronunciation": "cheng"
+		},
+		{
+			"number": 616,
+			"frequency": 76.526129487989,
+			"pronunciation": "na"
+		},
+		{
+			"number": 617,
+			"frequency": 76.56060470111,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 618,
+			"frequency": 76.595056348701,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 619,
+			"frequency": 76.629501042528,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 620,
+			"frequency": 76.663764165869,
+			"pronunciation": "ling"
+		},
+		{
+			"number": 621,
+			"frequency": 76.698021494407,
+			"pronunciation": "gan"
+		},
+		{
+			"number": 622,
+			"frequency": 76.732165244811,
+			"pronunciation": "gen"
+		},
+		{
+			"number": 623,
+			"frequency": 76.766301655132,
+			"pronunciation": "jiang"
+		},
+		{
+			"number": 624,
+			"frequency": 76.800310193473,
+			"pronunciation": "fang"
+		},
+		{
+			"number": 625,
+			"frequency": 76.834273918672,
+			"pronunciation": "du"
+		},
+		{
+			"number": 626,
+			"frequency": 76.868230303788,
+			"pronunciation": "ze"
+		},
+		{
+			"number": 627,
+			"frequency": 76.902045682037,
+			"pronunciation": "jiao"
+		},
+		{
+			"number": 628,
+			"frequency": 76.9357637076,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 629,
+			"frequency": 76.969445032746,
+			"pronunciation": "su"
+		},
+		{
+			"number": 630,
+			"frequency": 77.003109359803,
+			"pronunciation": "shuang"
+		},
+		{
+			"number": 631,
+			"frequency": 77.036630362073,
+			"pronunciation": "shan"
+		},
+		{
+			"number": 632,
+			"frequency": 77.069957045291,
+			"pronunciation": "jiao"
+		},
+		{
+			"number": 633,
+			"frequency": 77.103242392249,
+			"pronunciation": "you"
+		},
+		{
+			"number": 634,
+			"frequency": 77.136516535922,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 635,
+			"frequency": 77.169649286408,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 636,
+			"frequency": 77.202778946332,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 637,
+			"frequency": 77.235878473282,
+			"pronunciation": "zu"
+		},
+		{
+			"number": 638,
+			"frequency": 77.268971432789,
+			"pronunciation": "shei"
+		},
+		{
+			"number": 639,
+			"frequency": 77.302055120612,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 640,
+			"frequency": 77.335117560824,
+			"pronunciation": "di"
+		},
+		{
+			"number": 641,
+			"frequency": 77.36812205301,
+			"pronunciation": "hai"
+		},
+		{
+			"number": 642,
+			"frequency": 77.401106456545,
+			"pronunciation": "ge"
+		},
+		{
+			"number": 643,
+			"frequency": 77.434030207812,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 644,
+			"frequency": 77.466930007228,
+			"pronunciation": "ba"
+		},
+		{
+			"number": 645,
+			"frequency": 77.499785379822,
+			"pronunciation": "gong"
+		},
+		{
+			"number": 646,
+			"frequency": 77.532618345846,
+			"pronunciation": "dou"
+		},
+		{
+			"number": 647,
+			"frequency": 77.565351254943,
+			"pronunciation": "jiang"
+		},
+		{
+			"number": 648,
+			"frequency": 77.598077210276,
+			"pronunciation": "juan"
+		},
+		{
+			"number": 649,
+			"frequency": 77.630785781201,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 650,
+			"frequency": 77.663471172915,
+			"pronunciation": "feng"
+		},
+		{
+			"number": 651,
+			"frequency": 77.696036805373,
+			"pronunciation": "gou"
+		},
+		{
+			"number": 652,
+			"frequency": 77.728370645721,
+			"pronunciation": "zhan"
+		},
+		{
+			"number": 653,
+			"frequency": 77.760641129558,
+			"pronunciation": "yan"
+		},
+		{
+			"number": 654,
+			"frequency": 77.79289963747,
+			"pronunciation": "ku"
+		},
+		{
+			"number": 655,
+			"frequency": 77.825139215693,
+			"pronunciation": "cha"
+		},
+		{
+			"number": 656,
+			"frequency": 77.85736643167,
+			"pronunciation": "ke"
+		},
+		{
+			"number": 657,
+			"frequency": 77.889588625485,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 658,
+			"frequency": 77.921801933936,
+			"pronunciation": "pai"
+		},
+		{
+			"number": 659,
+			"frequency": 77.954014856066,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 660,
+			"frequency": 77.986223142354,
+			"pronunciation": "liao"
+		},
+		{
+			"number": 661,
+			"frequency": 78.018336393878,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 662,
+			"frequency": 78.050438055795,
+			"pronunciation": "li"
+		},
+		{
+			"number": 663,
+			"frequency": 78.08244738719,
+			"pronunciation": "zu"
+		},
+		{
+			"number": 664,
+			"frequency": 78.114351639494,
+			"pronunciation": "gong"
+		},
+		{
+			"number": 665,
+			"frequency": 78.146221509302,
+			"pronunciation": "luan"
+		},
+		{
+			"number": 666,
+			"frequency": 78.178057382934,
+			"pronunciation": "su"
+		},
+		{
+			"number": 667,
+			"frequency": 78.209863123591,
+			"pronunciation": "pa"
+		},
+		{
+			"number": 668,
+			"frequency": 78.241630618551,
+			"pronunciation": "nan"
+		},
+		{
+			"number": 669,
+			"frequency": 78.273224269428,
+			"pronunciation": "xiao"
+		},
+		{
+			"number": 670,
+			"frequency": 78.304796286375,
+			"pronunciation": "ban"
+		},
+		{
+			"number": 671,
+			"frequency": 78.336294902487,
+			"pronunciation": "duan"
+		},
+		{
+			"number": 672,
+			"frequency": 78.367761840345,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 673,
+			"frequency": 78.399174693376,
+			"pronunciation": "yin"
+		},
+		{
+			"number": 674,
+			"frequency": 78.430543892227,
+			"pronunciation": "wan"
+		},
+		{
+			"number": 675,
+			"frequency": 78.461884117065,
+			"pronunciation": "xuan"
+		},
+		{
+			"number": 676,
+			"frequency": 78.493018433244,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 677,
+			"frequency": 78.524097891958,
+			"pronunciation": "you"
+		},
+		{
+			"number": 678,
+			"frequency": 78.555161125224,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 679,
+			"frequency": 78.586173364226,
+			"pronunciation": "cai"
+		},
+		{
+			"number": 680,
+			"frequency": 78.617167059859,
+			"pronunciation": "xiu"
+		},
+		{
+			"number": 681,
+			"frequency": 78.648109374908,
+			"pronunciation": "niang"
+		},
+		{
+			"number": 682,
+			"frequency": 78.678982924965,
+			"pronunciation": "mu"
+		},
+		{
+			"number": 683,
+			"frequency": 78.70981166188,
+			"pronunciation": "tai"
+		},
+		{
+			"number": 684,
+			"frequency": 78.740584768689,
+			"pronunciation": "gou"
+		},
+		{
+			"number": 685,
+			"frequency": 78.771355943896,
+			"pronunciation": "hua"
+		},
+		{
+			"number": 686,
+			"frequency": 78.802074579559,
+			"pronunciation": "xu"
+		},
+		{
+			"number": 687,
+			"frequency": 78.832777762415,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 688,
+			"frequency": 78.863443472213,
+			"pronunciation": "mi"
+		},
+		{
+			"number": 689,
+			"frequency": 78.89381132915,
+			"pronunciation": "jia"
+		},
+		{
+			"number": 690,
+			"frequency": 78.924175322885,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 691,
+			"frequency": 78.954516137409,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 692,
+			"frequency": 78.984838408565,
+			"pronunciation": "shang"
+		},
+		{
+			"number": 693,
+			"frequency": 79.015157589158,
+			"pronunciation": "gang"
+		},
+		{
+			"number": 694,
+			"frequency": 79.045419594365,
+			"pronunciation": "zhuang"
+		},
+		{
+			"number": 695,
+			"frequency": 79.075618243062,
+			"pronunciation": "lan"
+		},
+		{
+			"number": 696,
+			"frequency": 79.105810710636,
+			"pronunciation": "su"
+		},
+		{
+			"number": 697,
+			"frequency": 79.135872215668,
+			"pronunciation": "zhu"
+		},
+		{
+			"number": 698,
+			"frequency": 79.165752150214,
+			"pronunciation": "zheng"
+		},
+		{
+			"number": 699,
+			"frequency": 79.195436606747,
+			"pronunciation": "sheng"
+		},
+		{
+			"number": 700,
+			"frequency": 79.224962672005,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 701,
+			"frequency": 79.254434266118,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 702,
+			"frequency": 79.283850230124,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 703,
+			"frequency": 79.313223698911,
+			"pronunciation": "ye"
+		},
+		{
+			"number": 704,
+			"frequency": 79.34258248753,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 705,
+			"frequency": 79.371884100762,
+			"pronunciation": "yin"
+		},
+		{
+			"number": 706,
+			"frequency": 79.401160603182,
+			"pronunciation": "su"
+		},
+		{
+			"number": 707,
+			"frequency": 79.430408517909,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 708,
+			"frequency": 79.459613937415,
+			"pronunciation": "di"
+		},
+		{
+			"number": 709,
+			"frequency": 79.488747887688,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 710,
+			"frequency": 79.5178366385,
+			"pronunciation": "tui"
+		},
+		{
+			"number": 711,
+			"frequency": 79.546874781367,
+			"pronunciation": "lian"
+		},
+		{
+			"number": 712,
+			"frequency": 79.575854203567,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 713,
+			"frequency": 79.604776064059,
+			"pronunciation": "re"
+		},
+		{
+			"number": 714,
+			"frequency": 79.633665087336,
+			"pronunciation": "tian"
+		},
+		{
+			"number": 715,
+			"frequency": 79.662481096098,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 716,
+			"frequency": 79.691264267645,
+			"pronunciation": "huai"
+		},
+		{
+			"number": 717,
+			"frequency": 79.720025418941,
+			"pronunciation": "lang"
+		},
+		{
+			"number": 718,
+			"frequency": 79.748767254228,
+			"pronunciation": "na"
+		},
+		{
+			"number": 719,
+			"frequency": 79.77745500469,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 720,
+			"frequency": 79.806137732989,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 721,
+			"frequency": 79.834815439125,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 722,
+			"frequency": 79.863437901476,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 723,
+			"frequency": 79.891988508273,
+			"pronunciation": "huan"
+		},
+		{
+			"number": 724,
+			"frequency": 79.920475372239,
+			"pronunciation": "mao"
+		},
+		{
+			"number": 725,
+			"frequency": 79.948937511714,
+			"pronunciation": "mian"
+		},
+		{
+			"number": 726,
+			"frequency": 79.977377630938,
+			"pronunciation": "lue"
+		},
+		{
+			"number": 727,
+			"frequency": 80.005718079555,
+			"pronunciation": "pi"
+		},
+		{
+			"number": 728,
+			"frequency": 80.03403187208,
+			"pronunciation": "fan"
+		},
+		{
+			"number": 729,
+			"frequency": 80.062321712753,
+			"pronunciation": "fou"
+		},
+		{
+			"number": 730,
+			"frequency": 80.090605758623,
+			"pronunciation": "ling"
+		},
+		{
+			"number": 731,
+			"frequency": 80.118814085738,
+			"pronunciation": "yao"
+		},
+		{
+			"number": 732,
+			"frequency": 80.146999233641,
+			"pronunciation": "she"
+		},
+		{
+			"number": 733,
+			"frequency": 80.175171246659,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 734,
+			"frequency": 80.203181391519,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 735,
+			"frequency": 80.231166039248,
+			"pronunciation": "lu"
+		},
+		{
+			"number": 736,
+			"frequency": 80.259109737037,
+			"pronunciation": "ju"
+		},
+		{
+			"number": 737,
+			"frequency": 80.286941401973,
+			"pronunciation": "sun"
+		},
+		{
+			"number": 738,
+			"frequency": 80.314633219003,
+			"pronunciation": "xiong"
+		},
+		{
+			"number": 739,
+			"frequency": 80.342249703598,
+			"pronunciation": "ba"
+		},
+		{
+			"number": 740,
+			"frequency": 80.369811717046,
+			"pronunciation": "lao"
+		},
+		{
+			"number": 741,
+			"frequency": 80.397254357558,
+			"pronunciation": "huo"
+		},
+		{
+			"number": 742,
+			"frequency": 80.424647162767,
+			"pronunciation": "jiu"
+		},
+		{
+			"number": 743,
+			"frequency": 80.452003653878,
+			"pronunciation": "wang"
+		},
+		{
+			"number": 744,
+			"frequency": 80.479238067812,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 745,
+			"frequency": 80.506468232223,
+			"pronunciation": "mang"
+		},
+		{
+			"number": 746,
+			"frequency": 80.533634267484,
+			"pronunciation": "gui"
+		},
+		{
+			"number": 747,
+			"frequency": 80.560796825864,
+			"pronunciation": "cuo"
+		},
+		{
+			"number": 748,
+			"frequency": 80.587907231018,
+			"pronunciation": "shu"
+		},
+		{
+			"number": 749,
+			"frequency": 80.614973209352,
+			"pronunciation": "zhui"
+		},
+		{
+			"number": 750,
+			"frequency": 80.642028370721,
+			"pronunciation": "lin"
+		},
+		{
+			"number": 751,
+			"frequency": 80.66904258215,
+			"pronunciation": "bo"
+		},
+		{
+			"number": 752,
+			"frequency": 80.696027819565,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 753,
+			"frequency": 80.722986787208,
+			"pronunciation": "pu"
+		},
+		{
+			"number": 754,
+			"frequency": 80.749926825163,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 755,
+			"frequency": 80.77680968773,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 756,
+			"frequency": 80.803689846055,
+			"pronunciation": "chong"
+		},
+		{
+			"number": 757,
+			"frequency": 80.830532917644,
+			"pronunciation": "yong"
+		},
+		{
+			"number": 758,
+			"frequency": 80.857345083617,
+			"pronunciation": "cai"
+		},
+		{
+			"number": 759,
+			"frequency": 80.884055647383,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 760,
+			"frequency": 80.910722170647,
+			"pronunciation": "sheng"
+		},
+		{
+			"number": 761,
+			"frequency": 80.937365128381,
+			"pronunciation": "xie"
+		},
+		{
+			"number": 762,
+			"frequency": 80.963929276797,
+			"pronunciation": "dan"
+		},
+		{
+			"number": 763,
+			"frequency": 80.990488403051,
+			"pronunciation": "bai"
+		},
+		{
+			"number": 764,
+			"frequency": 81.01703903026,
+			"pronunciation": "lei"
+		},
+		{
+			"number": 765,
+			"frequency": 81.043539822166,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 766,
+			"frequency": 81.0700143443,
+			"pronunciation": "na"
+		},
+		{
+			"number": 767,
+			"frequency": 81.09641662456,
+			"pronunciation": "yuan"
+		},
+		{
+			"number": 768,
+			"frequency": 81.122752844068,
+			"pronunciation": "sui"
+		},
+		{
+			"number": 769,
+			"frequency": 81.148870792673,
+			"pronunciation": "chuang"
+		},
+		{
+			"number": 770,
+			"frequency": 81.174965948387,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 771,
+			"frequency": 81.201053377697,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 772,
+			"frequency": 81.227077450498,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 773,
+			"frequency": 81.253048983753,
+			"pronunciation": "ce"
+		},
+		{
+			"number": 774,
+			"frequency": 81.279008154763,
+			"pronunciation": "bai"
+		},
+		{
+			"number": 775,
+			"frequency": 81.304936806478,
+			"pronunciation": "song"
+		},
+		{
+			"number": 776,
+			"frequency": 81.330841892663,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 777,
+			"frequency": 81.356742729325,
+			"pronunciation": "tao"
+		},
+		{
+			"number": 778,
+			"frequency": 81.382641248066,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 779,
+			"frequency": 81.408456707967,
+			"pronunciation": "ni"
+		},
+		{
+			"number": 780,
+			"frequency": 81.434215378802,
+			"pronunciation": "fan"
+		},
+		{
+			"number": 781,
+			"frequency": 81.459903739364,
+			"pronunciation": "qiu"
+		},
+		{
+			"number": 782,
+			"frequency": 81.485591327285,
+			"pronunciation": "qiu"
+		},
+		{
+			"number": 783,
+			"frequency": 81.511263848719,
+			"pronunciation": "chong"
+		},
+		{
+			"number": 784,
+			"frequency": 81.536885375889,
+			"pronunciation": "en"
+		},
+		{
+			"number": 785,
+			"frequency": 81.562497245054,
+			"pronunciation": "ge"
+		},
+		{
+			"number": 786,
+			"frequency": 81.588101387816,
+			"pronunciation": "xun"
+		},
+		{
+			"number": 787,
+			"frequency": 81.61368969145,
+			"pronunciation": "e"
+		},
+		{
+			"number": 788,
+			"frequency": 81.639276449803,
+			"pronunciation": "ting"
+		},
+		{
+			"number": 789,
+			"frequency": 81.664855868073,
+			"pronunciation": "liang"
+		},
+		{
+			"number": 790,
+			"frequency": 81.690378883597,
+			"pronunciation": "gu"
+		},
+		{
+			"number": 791,
+			"frequency": 81.715899194879,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 792,
+			"frequency": 81.741395554309,
+			"pronunciation": "bo"
+		},
+		{
+			"number": 793,
+			"frequency": 81.766854440682,
+			"pronunciation": "ci"
+		},
+		{
+			"number": 794,
+			"frequency": 81.792267741273,
+			"pronunciation": "shu"
+		},
+		{
+			"number": 795,
+			"frequency": 81.817655158412,
+			"pronunciation": "xie"
+		},
+		{
+			"number": 796,
+			"frequency": 81.843032144907,
+			"pronunciation": "huan"
+		},
+		{
+			"number": 797,
+			"frequency": 81.868399087076,
+			"pronunciation": "mo"
+		},
+		{
+			"number": 798,
+			"frequency": 81.893759848122,
+			"pronunciation": "nao"
+		},
+		{
+			"number": 799,
+			"frequency": 81.918939425003,
+			"pronunciation": "cao"
+		},
+		{
+			"number": 800,
+			"frequency": 81.944116683963,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 801,
+			"frequency": 81.969269991071,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 802,
+			"frequency": 81.9943835072,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 803,
+			"frequency": 82.019489296926,
+			"pronunciation": "san"
+		},
+		{
+			"number": 804,
+			"frequency": 82.044568044239,
+			"pronunciation": "pan"
+		},
+		{
+			"number": 805,
+			"frequency": 82.069614340656,
+			"pronunciation": "yang"
+		},
+		{
+			"number": 806,
+			"frequency": 82.094642480025,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 807,
+			"frequency": 82.119608421845,
+			"pronunciation": "qian"
+		},
+		{
+			"number": 808,
+			"frequency": 82.144490532185,
+			"pronunciation": "guai"
+		},
+		{
+			"number": 809,
+			"frequency": 82.169361439239,
+			"pronunciation": "er"
+		},
+		{
+			"number": 810,
+			"frequency": 82.194185215231,
+			"pronunciation": "zhen"
+		},
+		{
+			"number": 811,
+			"frequency": 82.219008218583,
+			"pronunciation": "deng"
+		},
+		{
+			"number": 812,
+			"frequency": 82.243763229583,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 813,
+			"frequency": 82.268506264657,
+			"pronunciation": "kong"
+		},
+		{
+			"number": 814,
+			"frequency": 82.293152719685,
+			"pronunciation": "tang"
+		},
+		{
+			"number": 815,
+			"frequency": 82.317787971428,
+			"pronunciation": "tang"
+		},
+		{
+			"number": 816,
+			"frequency": 82.342413951487,
+			"pronunciation": "zhao"
+		},
+		{
+			"number": 817,
+			"frequency": 82.366973484474,
+			"pronunciation": "zhu"
+		},
+		{
+			"number": 818,
+			"frequency": 82.391504043447,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 819,
+			"frequency": 82.415997515683,
+			"pronunciation": "pai"
+		},
+		{
+			"number": 820,
+			"frequency": 82.440442697896,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 821,
+			"frequency": 82.464875904183,
+			"pronunciation": "ning"
+		},
+		{
+			"number": 822,
+			"frequency": 82.489301770387,
+			"pronunciation": "sheng"
+		},
+		{
+			"number": 823,
+			"frequency": 82.513592038207,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 824,
+			"frequency": 82.537674465768,
+			"pronunciation": "tie"
+		},
+		{
+			"number": 825,
+			"frequency": 82.561747235325,
+			"pronunciation": "jiao"
+		},
+		{
+			"number": 826,
+			"frequency": 82.585811892158,
+			"pronunciation": "gu"
+		},
+		{
+			"number": 827,
+			"frequency": 82.609849892898,
+			"pronunciation": "cun"
+		},
+		{
+			"number": 828,
+			"frequency": 82.633803289518,
+			"pronunciation": "du"
+		},
+		{
+			"number": 829,
+			"frequency": 82.657679035781,
+			"pronunciation": "hui"
+		},
+		{
+			"number": 830,
+			"frequency": 82.681497220337,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 831,
+			"frequency": 82.705273682314,
+			"pronunciation": "leng"
+		},
+		{
+			"number": 832,
+			"frequency": 82.729017307075,
+			"pronunciation": "mo"
+		},
+		{
+			"number": 833,
+			"frequency": 82.752659329627,
+			"pronunciation": "fo"
+		},
+		{
+			"number": 834,
+			"frequency": 82.776284740412,
+			"pronunciation": "yang"
+		},
+		{
+			"number": 835,
+			"frequency": 82.799840227244,
+			"pronunciation": "meng"
+		},
+		{
+			"number": 836,
+			"frequency": 82.823386442391,
+			"pronunciation": "jiu"
+		},
+		{
+			"number": 837,
+			"frequency": 82.846897116082,
+			"pronunciation": "zhen"
+		},
+		{
+			"number": 838,
+			"frequency": 82.870395813847,
+			"pronunciation": "ha"
+		},
+		{
+			"number": 839,
+			"frequency": 82.893878672484,
+			"pronunciation": "an"
+		},
+		{
+			"number": 840,
+			"frequency": 82.917354577358,
+			"pronunciation": "mai"
+		},
+		{
+			"number": 841,
+			"frequency": 82.940754763477,
+			"pronunciation": "du"
+		},
+		{
+			"number": 842,
+			"frequency": 82.964141428388,
+			"pronunciation": "chu"
+		},
+		{
+			"number": 843,
+			"frequency": 82.987269258778,
+			"pronunciation": "pei"
+		},
+		{
+			"number": 844,
+			"frequency": 83.010309780806,
+			"pronunciation": "tong"
+		},
+		{
+			"number": 845,
+			"frequency": 83.033306648653,
+			"pronunciation": "shou"
+		},
+		{
+			"number": 846,
+			"frequency": 83.05623900103,
+			"pronunciation": "ken"
+		},
+		{
+			"number": 847,
+			"frequency": 83.079122677063,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 848,
+			"frequency": 83.101999399334,
+			"pronunciation": "zhan"
+		},
+		{
+			"number": 849,
+			"frequency": 83.124868781521,
+			"pronunciation": "lou"
+		},
+		{
+			"number": 850,
+			"frequency": 83.147710734975,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 851,
+			"frequency": 83.170541871464,
+			"pronunciation": "shun"
+		},
+		{
+			"number": 852,
+			"frequency": 83.193311583043,
+			"pronunciation": "yin"
+		},
+		{
+			"number": 853,
+			"frequency": 83.216066228136,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 854,
+			"frequency": 83.238819714268,
+			"pronunciation": "zou"
+		},
+		{
+			"number": 855,
+			"frequency": 83.261562383435,
+			"pronunciation": "gu"
+		},
+		{
+			"number": 856,
+			"frequency": 83.28430003044,
+			"pronunciation": "pi"
+		},
+		{
+			"number": 857,
+			"frequency": 83.307011407672,
+			"pronunciation": "jing"
+		},
+		{
+			"number": 858,
+			"frequency": 83.329702696254,
+			"pronunciation": "jia"
+		},
+		{
+			"number": 859,
+			"frequency": 83.352351103297,
+			"pronunciation": "dan"
+		},
+		{
+			"number": 860,
+			"frequency": 83.374919928382,
+			"pronunciation": "ma"
+		},
+		{
+			"number": 861,
+			"frequency": 83.397478322821,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 862,
+			"frequency": 83.420023582375,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 863,
+			"frequency": 83.442545662717,
+			"pronunciation": "zhong"
+		},
+		{
+			"number": 864,
+			"frequency": 83.465029497362,
+			"pronunciation": "bei"
+		},
+		{
+			"number": 865,
+			"frequency": 83.487461565102,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 866,
+			"frequency": 83.509832207932,
+			"pronunciation": "suo"
+		},
+		{
+			"number": 867,
+			"frequency": 83.532177739951,
+			"pronunciation": "chuan"
+		},
+		{
+			"number": 868,
+			"frequency": 83.55443905417,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 869,
+			"frequency": 83.576684142942,
+			"pronunciation": "fan"
+		},
+		{
+			"number": 870,
+			"frequency": 83.59892343691,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 871,
+			"frequency": 83.621134529506,
+			"pronunciation": "ji"
+		},
+		{
+			"number": 872,
+			"frequency": 83.643248655735,
+			"pronunciation": "shen"
+		},
+		{
+			"number": 873,
+			"frequency": 83.665292085371,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 874,
+			"frequency": 83.687323925402,
+			"pronunciation": "ceng"
+		},
+		{
+			"number": 875,
+			"frequency": 83.7093302683,
+			"pronunciation": "zhou"
+		},
+		{
+			"number": 876,
+			"frequency": 83.731330043755,
+			"pronunciation": "jiao"
+		},
+		{
+			"number": 877,
+			"frequency": 83.753256418376,
+			"pronunciation": "xiang"
+		},
+		{
+			"number": 878,
+			"frequency": 83.775177384514,
+			"pronunciation": "sha"
+		},
+		{
+			"number": 879,
+			"frequency": 83.797084056805,
+			"pronunciation": "tuo"
+		},
+		{
+			"number": 880,
+			"frequency": 83.818933167389,
+			"pronunciation": "feng"
+		},
+		{
+			"number": 881,
+			"frequency": 83.840716217221,
+			"pronunciation": "chen"
+		},
+		{
+			"number": 882,
+			"frequency": 83.862481882646,
+			"pronunciation": "wang"
+		},
+		{
+			"number": 883,
+			"frequency": 83.884231708943,
+			"pronunciation": "kang"
+		},
+		{
+			"number": 884,
+			"frequency": 83.905933245217,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 885,
+			"frequency": 83.927534724563,
+			"pronunciation": "chao"
+		},
+		{
+			"number": 886,
+			"frequency": 83.949112252059,
+			"pronunciation": "mou"
+		},
+		{
+			"number": 887,
+			"frequency": 83.970549545328,
+			"pronunciation": "yan"
+		},
+		{
+			"number": 888,
+			"frequency": 83.99197177211,
+			"pronunciation": "xie"
+		},
+		{
+			"number": 889,
+			"frequency": 84.013334505583,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 890,
+			"frequency": 84.034658607039,
+			"pronunciation": "gu"
+		},
+		{
+			"number": 891,
+			"frequency": 84.05582702146,
+			"pronunciation": "zhao"
+		},
+		{
+			"number": 892,
+			"frequency": 84.07699157268,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 893,
+			"frequency": 84.098047954249,
+			"pronunciation": "ban"
+		},
+		{
+			"number": 894,
+			"frequency": 84.119044842509,
+			"pronunciation": "zhao"
+		},
+		{
+			"number": 895,
+			"frequency": 84.13997876058,
+			"pronunciation": "xia"
+		},
+		{
+			"number": 896,
+			"frequency": 84.160892590001,
+			"pronunciation": "zhang"
+		},
+		{
+			"number": 897,
+			"frequency": 84.181792898216,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 898,
+			"frequency": 84.202688570588,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 899,
+			"frequency": 84.223574198636,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 900,
+			"frequency": 84.244456349802,
+			"pronunciation": "lu"
+		},
+		{
+			"number": 901,
+			"frequency": 84.265332706166,
+			"pronunciation": "ye"
+		},
+		{
+			"number": 902,
+			"frequency": 84.286153432423,
+			"pronunciation": "shi"
+		},
+		{
+			"number": 903,
+			"frequency": 84.306959478513,
+			"pronunciation": "liang"
+		},
+		{
+			"number": 904,
+			"frequency": 84.327746208594,
+			"pronunciation": "dun"
+		},
+		{
+			"number": 905,
+			"frequency": 84.34850241938,
+			"pronunciation": "lu"
+		},
+		{
+			"number": 906,
+			"frequency": 84.369252449044,
+			"pronunciation": "ding"
+		},
+		{
+			"number": 907,
+			"frequency": 84.389910148184,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 908,
+			"frequency": 84.410482856883,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 909,
+			"frequency": 84.431016547245,
+			"pronunciation": "shui"
+		},
+		{
+			"number": 910,
+			"frequency": 84.45149499382,
+			"pronunciation": "zuo"
+		},
+		{
+			"number": 911,
+			"frequency": 84.471933263096,
+			"pronunciation": "you"
+		},
+		{
+			"number": 912,
+			"frequency": 84.492363419648,
+			"pronunciation": "lie"
+		},
+		{
+			"number": 913,
+			"frequency": 84.512754557862,
+			"pronunciation": "ka"
+		},
+		{
+			"number": 914,
+			"frequency": 84.533144150794,
+			"pronunciation": "li"
+		},
+		{
+			"number": 915,
+			"frequency": 84.553513655078,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 916,
+			"frequency": 84.573860366471,
+			"pronunciation": "hua"
+		},
+		{
+			"number": 917,
+			"frequency": 84.594203600982,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 918,
+			"frequency": 84.61454219965,
+			"pronunciation": "nin"
+		},
+		{
+			"number": 919,
+			"frequency": 84.634877707758,
+			"pronunciation": "yu"
+		},
+		{
+			"number": 920,
+			"frequency": 84.655189650334,
+			"pronunciation": "man"
+		},
+		{
+			"number": 921,
+			"frequency": 84.675499274989,
+			"pronunciation": "lu"
+		},
+		{
+			"number": 922,
+			"frequency": 84.69573704409,
+			"pronunciation": "a"
+		},
+		{
+			"number": 923,
+			"frequency": 84.715965155187,
+			"pronunciation": "duan"
+		},
+		{
+			"number": 924,
+			"frequency": 84.736089732474,
+			"pronunciation": "tu"
+		},
+		{
+			"number": 925,
+			"frequency": 84.756208514959,
+			"pronunciation": "huai"
+		},
+		{
+			"number": 926,
+			"frequency": 84.77629909607,
+			"pronunciation": "za"
+		},
+		{
+			"number": 927,
+			"frequency": 84.796347181962,
+			"pronunciation": "jian"
+		},
+		{
+			"number": 928,
+			"frequency": 84.816366680159,
+			"pronunciation": "cang"
+		},
+		{
+			"number": 929,
+			"frequency": 84.836355659063,
+			"pronunciation": "ya"
+		},
+		{
+			"number": 930,
+			"frequency": 84.856329957799,
+			"pronunciation": "zei"
+		},
+		{
+			"number": 931,
+			"frequency": 84.876248240109,
+			"pronunciation": "wen"
+		},
+		{
+			"number": 932,
+			"frequency": 84.896124799839,
+			"pronunciation": "qing"
+		},
+		{
+			"number": 933,
+			"frequency": 84.915969294994,
+			"pronunciation": "bang"
+		},
+		{
+			"number": 934,
+			"frequency": 84.935800655262,
+			"pronunciation": "song"
+		},
+		{
+			"number": 935,
+			"frequency": 84.955610767921,
+			"pronunciation": "huan"
+		},
+		{
+			"number": 936,
+			"frequency": 84.975419721619,
+			"pronunciation": "hou"
+		},
+		{
+			"number": 937,
+			"frequency": 84.995216313071,
+			"pronunciation": "kang"
+		},
+		{
+			"number": 938,
+			"frequency": 85.014976590426,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 939,
+			"frequency": 85.034693599921,
+			"pronunciation": "jun"
+		},
+		{
+			"number": 940,
+			"frequency": 85.054405587253,
+			"pronunciation": "yang"
+		},
+		{
+			"number": 941,
+			"frequency": 85.07406348976,
+			"pronunciation": "xi"
+		},
+		{
+			"number": 942,
+			"frequency": 85.093716370104,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 943,
+			"frequency": 85.113343366996,
+			"pronunciation": "jin"
+		},
+		{
+			"number": 944,
+			"frequency": 85.132930959229,
+			"pronunciation": "gan"
+		},
+		{
+			"number": 945,
+			"frequency": 85.152502326014,
+			"pronunciation": "niu"
+		},
+		{
+			"number": 946,
+			"frequency": 85.172043946146,
+			"pronunciation": "shen"
+		},
+		{
+			"number": 947,
+			"frequency": 85.191577453554,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 948,
+			"frequency": 85.211092417593,
+			"pronunciation": "wu"
+		},
+		{
+			"number": 949,
+			"frequency": 85.230571840175,
+			"pronunciation": "zhong"
+		},
+		{
+			"number": 950,
+			"frequency": 85.249968203917,
+			"pronunciation": "kuai"
+		},
+		{
+			"number": 951,
+			"frequency": 85.269262579132,
+			"pronunciation": "fan"
+		},
+		{
+			"number": 952,
+			"frequency": 85.288527207692,
+			"pronunciation": "ying"
+		},
+		{
+			"number": 953,
+			"frequency": 85.307633444978,
+			"pronunciation": "huo"
+		},
+		{
+			"number": 954,
+			"frequency": 85.326699118644,
+			"pronunciation": "bu"
+		},
+		{
+			"number": 955,
+			"frequency": 85.345752043744,
+			"pronunciation": "bo"
+		},
+		{
+			"number": 956,
+			"frequency": 85.364774063229,
+			"pronunciation": "zhi"
+		},
+		{
+			"number": 957,
+			"frequency": 85.383789128952,
+			"pronunciation": "ren"
+		},
+		{
+			"number": 958,
+			"frequency": 85.402801876753,
+			"pronunciation": "kuan"
+		},
+		{
+			"number": 959,
+			"frequency": 85.421813851913,
+			"pronunciation": "bi"
+		},
+		{
+			"number": 960,
+			"frequency": 85.440736587112,
+			"pronunciation": "yan"
+		},
+		{
+			"number": 961,
+			"frequency": 85.459619531332,
+			"pronunciation": "yin"
+		},
+		{
+			"number": 962,
+			"frequency": 85.478489726985,
+			"pronunciation": "si"
+		},
+		{
+			"number": 963,
+			"frequency": 85.497352968876,
+			"pronunciation": "gu"
+		},
+		{
+			"number": 964,
+			"frequency": 85.516177578748,
+			"pronunciation": "fu"
+		},
+		{
+			"number": 965,
+			"frequency": 85.534971669325,
+			"pronunciation": "qi"
+		},
+		{
+			"number": 966,
+			"frequency": 85.553647545927,
+			"pronunciation": "zheng"
+		},
+		{
+			"number": 967,
+			"frequency": 85.572321104607,
+			"pronunciation": "dian"
+		},
+		{
+			"number": 968,
+			"frequency": 85.590991959047,
+			"pronunciation": "ye"
+		},
+		{
+			"number": 969,
+			"frequency": 85.609634612113,
+			"pronunciation": "hu"
+		},
+		{
+			"number": 970,
+			"frequency": 85.628251768046,
+			"pronunciation": "zai"
+		},
+		{
+			"number": 971,
+			"frequency": 85.646801704268,
+			"pronunciation": "hang"
+		},
+		{
+			"number": 972,
+			"frequency": 85.665348549929,
+			"pronunciation": "kong"
+		},
+		{
+			"number": 973,
+			"frequency": 85.683839765483,
+			"pronunciation": "xing"
+		},
+		{
+			"number": 974,
+			"frequency": 85.702322868314,
+			"pronunciation": "rong"
+		},
+		{
+			"number": 975,
+			"frequency": 85.720792449938,
+			"pronunciation": "yang"
+		},
+		{
+			"number": 976,
+			"frequency": 85.739241556592,
+			"pronunciation": "gai"
+		},
+		{
+			"number": 977,
+			"frequency": 85.75767714204,
+			"pronunciation": "zhuang"
+		},
+		{
+			"number": 978,
+			"frequency": 85.776103842123,
+			"pronunciation": "dao"
+		},
+		{
+			"number": 979,
+			"frequency": 85.794497318671,
+			"pronunciation": "tuo"
+		},
+		{
+			"number": 980,
+			"frequency": 85.812862980166,
+			"pronunciation": "jie"
+		},
+		{
+			"number": 981,
+			"frequency": 85.831213188854,
+			"pronunciation": "gai"
+		},
+		{
+			"number": 982,
+			"frequency": 85.849529787685,
+			"pronunciation": "xu"
+		},
+		{
+			"number": 983,
+			"frequency": 85.867820116744,
+			"pronunciation": "qin"
+		},
+		{
+			"number": 984,
+			"frequency": 85.8861027194,
+			"pronunciation": "ting"
+		},
+		{
+			"number": 985,
+			"frequency": 85.904299945295,
+			"pronunciation": "ci"
+		},
+		{
+			"number": 986,
+			"frequency": 85.922436518921,
+			"pronunciation": "shui"
+		},
+		{
+			"number": 987,
+			"frequency": 85.94051437188,
+			"pronunciation": "zhao"
+		},
+		{
+			"number": 988,
+			"frequency": 85.958547411697,
+			"pronunciation": "nu"
+		},
+		{
+			"number": 989,
+			"frequency": 85.976578906233,
+			"pronunciation": "qiang"
+		},
+		{
+			"number": 990,
+			"frequency": 85.994600742765,
+			"pronunciation": "pao"
+		},
+		{
+			"number": 991,
+			"frequency": 86.012617557135,
+			"pronunciation": "lv"
+		},
+		{
+			"number": 992,
+			"frequency": 86.030629735663,
+			"pronunciation": "kao"
+		},
+		{
+			"number": 993,
+			"frequency": 86.048636119387,
+			"pronunciation": "wei"
+		},
+		{
+			"number": 994,
+			"frequency": 86.066628209265,
+			"pronunciation": "xian"
+		},
+		{
+			"number": 995,
+			"frequency": 86.084615276981,
+			"pronunciation": "qu"
+		},
+		{
+			"number": 996,
+			"frequency": 86.102594231972,
+			"pronunciation": "bi"
+		},
+		{
+			"number": 997,
+			"frequency": 86.120520647419,
+			"pronunciation": "xue"
+		},
+		{
+			"number": 998,
+			"frequency": 86.138369798829,
+			"pronunciation": "fen"
+		},
+		{
+			"number": 999,
+			"frequency": 86.156195771029,
+			"pronunciation": "yi"
+		},
+		{
+			"number": 1000,
+			"frequency": 86.174017107386,
+			"pronunciation": "kun"
+		}
+	]
+}

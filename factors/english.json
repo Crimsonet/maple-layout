@@ -1,0 +1,133 @@
+{
+	"english": [{
+		"letter": "E",
+		"count": 21912,
+		"frequency": 12.02
+		},
+		{
+			"letter": "T",
+			"count": 16587,
+			"frequency": 9.10
+		},
+		{
+			"letter": "A",
+			"count": 14810,
+			"frequency": 8.12
+		},
+		{
+			"letter": "O",
+			"count": 14003,
+			"frequency": 7.68
+		},
+		{
+			"letter": "I",
+			"count": 13318,
+			"frequency": 7.31
+		},
+		{
+			"letter": "N",
+			"count": 12666,
+			"frequency": 6.95
+		},
+		{
+			"letter": "S",
+			"count": 11450,
+			"frequency": 6.28
+		},
+		{
+			"letter": "R",
+			"count": 10977,
+			"frequency": 6.02
+		},
+		{
+			"letter": "H",
+			"count": 10795,
+			"frequency": 5.92
+		},
+		{
+			"letter": "D",
+			"count": 7874,
+			"frequency": 4.32
+		},
+		{
+			"letter": "L",
+			"count": 7253,
+			"frequency": 3.98
+		},
+		{
+			"letter": "U",
+			"count": 5246,
+			"frequency": 2.88
+		},
+		{
+			"letter": "C",
+			"count": 4943,
+			"frequency": 2.71
+		},
+		{
+			"letter": "M",
+			"count": 4761,
+			"frequency": 2.61
+		},
+		{
+			"letter": "F",
+			"count": 4200,
+			"frequency": 2.30
+		},
+		{
+			"letter": "Y",
+			"count": 3853,
+			"frequency": 2.11
+		},
+		{
+			"letter": "W",
+			"count": 3819,
+			"frequency": 2.09
+		},
+		{
+			"letter": "G",
+			"count": 3693,
+			"frequency": 2.03
+		},
+		{
+			"letter": "P",
+			"count": 3316,
+			"frequency": 1.82
+		},
+		{
+			"letter": "B",
+			"count": 2715,
+			"frequency": 1.49
+		},
+		{
+			"letter": "V",
+			"count": 2019,
+			"frequency": 1.11
+		},
+		{
+			"letter": "K",
+			"count": 1257,
+			"frequency": 0.69
+		},
+		{
+			"letter": "X",
+			"count": 315,
+			"frequency": 0.17
+		},
+		{
+			"letter": "Q",
+			"count": 205,
+			"frequency": 0.11
+		},
+		{
+			"letter": "J",
+			"count": 188,
+			"frequency": 0.10
+		},
+		{
+			"letter": "Z",
+			"count": 128,
+			"frequency": 0.07
+		}
+	]
+}
