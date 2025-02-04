@@ -12,7 +12,7 @@ func main() {
 	//如果想看自然碼原始輸出結果
 	//或者想看加權平均數輸出結果
 	//的話，這裏改一下就可以了。
-	whetherPrintRawNaturalCode := true
+	whetherPrintRawNaturalCode := false
 	whetherPrintProNaturalCode := false
 
 	if whetherPrintRawNaturalCode == true {
